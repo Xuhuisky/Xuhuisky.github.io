@@ -19,12 +19,14 @@ function displayRandomImage() {
             // Update all elements with the class '.random-image'
             document.querySelectorAll('.random-image').forEach(function(element) {
                 element.innerHTML = `
-                <li>
-                    <a href="/g-gre-verbal${linkUrl}.html">
-                        <img src="${imageUrl}" alt="Image for ${imageName}" style="width: 600px; height: auto;">
-                    </a>
-                    <p>${imageName}</p>
-                </li>
+                <ul>
+                    <li>
+                        <a href="/g-gre-verbal${linkUrl}.html">
+                            <img src="${imageUrl}" alt="Image for ${imageName}" style="width: 600px; height: auto;">
+                        </a>
+                        <p>${imageName}</p>
+                    </li>
+                </ul>
                 `;
             });
         })
