@@ -20,7 +20,7 @@ function displayRandomImage() {
             document.querySelectorAll('.random-image').forEach(function(element) {
                 element.innerHTML = `
                     <a href="${linkUrl}">
-                        <img src="${imageUrl}" alt="Image for ${imageName}" style="width: 600px; height: auto;">
+                        <img src="${imageUrl}.html" alt="Image for ${imageName}" style="width: 600px; height: auto;">
                     </a>
                     <p>${imageName}</p>
                 `;
