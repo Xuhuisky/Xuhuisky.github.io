@@ -14,7 +14,7 @@ function displayRandomImage() {
 
             // Get the image path and link URL
             const imageUrl = `/static/G-GRE-Verbal image/${randomImageFile}`;
-            const linkUrl = `G-GRE-Verbal/instance/${instanceId}`;
+            const linkUrl = `/G-GRE-Verbal/instance/${instanceId}`;
 
             // Update all elements with the class '.random-image'
             document.querySelectorAll('.random-image').forEach(function(element) {
