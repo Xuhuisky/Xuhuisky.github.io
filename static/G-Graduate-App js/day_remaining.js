@@ -2,7 +2,7 @@ function calculateDaysRemaining() {
             const today = new Date();
 
             document.querySelectorAll('.due-date').forEach(function (element) {
-                const dueDateStr = element.dataset.dueDate;
+                const dueDateStr = element.set.dueDate;
                 const dueDate = new Date(dueDateStr);
                 const timeDiff = dueDate.getTime() - today.getTime();
                 const daysRemaining = Math.ceil(timeDiff / (1000 * 3600 * 24));
