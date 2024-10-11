@@ -14,12 +14,12 @@ function displayRandomImage() {
 
             // Get the image path and link URL
             const imageUrl = `/static/G-GRE-Verbal image/${randomImageFile}`;
-            const linkUrl = `/G-GRE-Verbal/instance/${instanceId}`;
+            const linkUrl = `/instance/${instanceId}`;
 
             // Update all elements with the class '.random-image'
             document.querySelectorAll('.random-image').forEach(function(element) {
                 element.innerHTML = `
-                    <a href="${linkUrl}.html">
+                    <a href="/G-GRE-Verbal/${linkUrl}.html">
                         <img src="${imageUrl}" alt="Image for ${imageName}" style="width: 600px; height: auto;">
                     </a>
                     <p>${imageName}</p>
