@@ -1,0 +1,14 @@
+        /* Normal unvisited link */
+        a:link {
+          color: blue; /* Change to your desired color */
+        }
+        
+        /* Visited link (after clicking) */
+        a:visited {
+          color: blue; /* Same color as unvisited to prevent color change */
+        }
+
+        /* Hover effect */
+        a:hover {
+          color: darkblue; /* Optional: change color when hovering */
+        }        
