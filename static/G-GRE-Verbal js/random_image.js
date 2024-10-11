@@ -19,8 +19,8 @@ function displayRandomImage() {
             // Update all elements with the class '.random-image'
             document.querySelectorAll('.random-image').forEach(function(element) {
                 element.innerHTML = `
-                    <a href="${linkUrl}">
-                        <img src="${imageUrl}.html" alt="Image for ${imageName}" style="width: 600px; height: auto;">
+                    <a href="${linkUrl}.html">
+                        <img src="${imageUrl}" alt="Image for ${imageName}" style="width: 600px; height: auto;">
                     </a>
                     <p>${imageName}</p>
                 `;
