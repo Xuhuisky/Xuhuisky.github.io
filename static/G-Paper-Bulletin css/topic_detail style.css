@@ -1,0 +1,32 @@
+        /* Normal unvisited link */
+        a:link {
+          color: blue; /* Change to your desired color */
+        }
+        
+        /* Visited link (after clicking) */
+        a:visited {
+          color: blue; /* Same color as unvisited to prevent color change */
+        }
+
+        /* Hover effect */
+        a:hover {
+          color: darkblue; /* Optional: change color when hovering */
+        }        
+        /* Optional styling to adjust the table or image */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        /* Style the logo images */
+        .academic-image {
+            height: 120px; /* Approximately 8 lines of text height */
+        }
+        /* Style for the total row */
