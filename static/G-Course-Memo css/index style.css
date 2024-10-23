@@ -13,3 +13,19 @@
           color: darkblue; /* Optional: change color when hovering */
         }        
         /* Optional styling to adjust the table or image */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .academic-image {
+            height: 150px; /* Approximately 10 lines of text height */
+        }
+        /* Style for the total row */

@@ -12,15 +12,6 @@
         a:hover {
             color: darkblue; /* Optional: change color when hovering */
         }        
-        .citation-box {
-            background-color: rgba(128, 128, 128, 0.8); /* Grey with 80% opacity */
-            padding: 8px;
-            border-radius: 3px;
-            color: white; /* Text color for contrast */
-/*            font-family: Arial, sans-serif;*/
-            max-width: 450px; /* Optional: to limit the width of the box */
-            margin: 5px 0; /* Adds spacing around the box */
-        }
         .container {
             display: flex;
             justify-content: space-between;
@@ -50,13 +41,3 @@
         body {
             overflow-x: hidden;
         }
-        .clickable {
-            color: white; /* The original text color */
-/*            text-decoration: underline; /* Make it look like a hyperlink */*/
-            cursor: pointer; /* Pointer to indicate it's clickable */
-        }
-
-        .clickable:hover {
-            text-decoration: none; /* Remove underline on hover */
-            color: #ccc; /* Optional: Change color slightly on hover */
-        }        
