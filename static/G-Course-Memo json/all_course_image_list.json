@@ -61,12 +61,7 @@
                     "event_sequence": 16
                 }
             ],
-            "images": [
-                {
-                    "file": "BME410_15_1.png",
-                    "event_id": 2
-                }
-            ]
+            "images": []
         },
         {
             "course_code": "BIO172",
@@ -141,12 +136,7 @@
                     "event_sequence": 1
                 }
             ],
-            "images": [
-                {
-                    "file": "ChE342_1_1.png",
-                    "event_id": 11
-                }
-            ]
+            "images": []
         }
     ]
 }
