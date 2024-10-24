@@ -112,12 +112,24 @@
                             "https://www.mcmaster.com/2664N539/"
                         ]
                     ]
+                },
+                {
+                    "activity_id": 14,
+                    "activity_sequence": 16
                 }
             ],
             "images": [
                 {
                     "file": "ME350_15_1.png",
                     "activity_id": 7
+                },
+                {
+                    "file": "ME350_15_2.png",
+                    "activity_id": 7
+                },
+                {
+                    "file": "ME350_16_1.png",
+                    "activity_id": 14
                 }
             ]
         },
@@ -131,7 +143,17 @@
                 },
                 {
                     "activity_id": 13,
-                    "activity_sequence": 16
+                    "activity_sequence": 16,
+                    "cross_links": [
+                        [
+                            "V. Chickarmane, C. et al. \r\n\"Transcriptional dynamics of the embryonic stem cell switch,\" \r\nPLoS Comput. Biol., Sep. 2006.",
+                            "https://xuhuisky.github.io/g-paper-bulletin/topic/4/paper_id/23.html"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 }
             ],
             "images": [
@@ -142,6 +164,14 @@
                 {
                     "file": "BME418_15_2.png",
                     "activity_id": 6
+                },
+                {
+                    "file": "BME418_16_1.png",
+                    "activity_id": 13
+                },
+                {
+                    "file": "BME418_16_2.png",
+                    "activity_id": 13
                 }
             ]
         },
