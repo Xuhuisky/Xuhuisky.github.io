@@ -128,6 +128,10 @@
                 {
                     "activity_id": 6,
                     "activity_sequence": 15
+                },
+                {
+                    "activity_id": 13,
+                    "activity_sequence": 16
                 }
             ],
             "images": [
