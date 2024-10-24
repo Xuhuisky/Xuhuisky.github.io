@@ -54,15 +54,15 @@ document.addEventListener('DOMContentLoaded', function() {
                 // Randomly select an image from the course's image list
                 const randomImage = courseImages[Math.floor(Math.random() * courseImages.length)];
                 const randomImageFile = randomImage.file;
-                const eventId = randomImage.event_id;
-                console.log(`Random image selected: ${randomImageFile}, Event ID: ${eventId}`);
+                const activityId = randomImage.activity_id;
+                console.log(`Random image selected: ${randomImageFile}, Activity ID: ${activityId}`);
 
                 // Get the image path
                 const imageUrl = `/static/G-Course-Memo image/${randomImageFile}`;
                 console.log(`Image URL: ${imageUrl}`);
 
                 // Generate the static link URL
-                const linkUrl = `/734/g-course-memo/course/${courseId}/event_id/${eventId}.html`;
+                const linkUrl = `/734/g-course-memo/course/${courseId}/activity_id/${activityId}.html`;
                 console.log(`Link URL: ${linkUrl}`);
 
                 // Update the td element with the image and link

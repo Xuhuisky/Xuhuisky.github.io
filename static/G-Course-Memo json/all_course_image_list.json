@@ -3,62 +3,62 @@
         {
             "course_code": "Socket",
             "course_id": 1,
-            "events": [
+            "activities": [
                 {
-                    "event_id": 1,
-                    "event_sequence": 102
+                    "activity_id": 1,
+                    "activity_sequence": 102
                 },
                 {
-                    "event_id": 5,
-                    "event_sequence": 101
+                    "activity_id": 5,
+                    "activity_sequence": 101
                 },
                 {
-                    "event_id": 9,
-                    "event_sequence": 103
+                    "activity_id": 9,
+                    "activity_sequence": 103
                 },
                 {
-                    "event_id": 10,
-                    "event_sequence": 104
+                    "activity_id": 10,
+                    "activity_sequence": 104
                 }
             ],
             "images": [
                 {
                     "file": "Socket_102_1.png",
-                    "event_id": 1
+                    "activity_id": 1
                 },
                 {
                     "file": "Socket_102_2.png",
-                    "event_id": 1
+                    "activity_id": 1
                 },
                 {
                     "file": "Socket_103_1.png",
-                    "event_id": 9
+                    "activity_id": 9
                 },
                 {
                     "file": "Socket_104_1.png",
-                    "event_id": 10
+                    "activity_id": 10
                 },
                 {
                     "file": "Socket_104_2.png",
-                    "event_id": 10
+                    "activity_id": 10
                 },
                 {
                     "file": "Socket_104_3.png",
-                    "event_id": 10
+                    "activity_id": 10
                 }
             ]
         },
         {
             "course_code": "BME410",
             "course_id": 2,
-            "events": [
+            "activities": [
                 {
-                    "event_id": 2,
-                    "event_sequence": 15
+                    "activity_id": 2,
+                    "activity_sequence": 15
                 },
                 {
-                    "event_id": 8,
-                    "event_sequence": 16
+                    "activity_id": 8,
+                    "activity_sequence": 16
                 }
             ],
             "images": []
@@ -66,74 +66,88 @@
         {
             "course_code": "BIO172",
             "course_id": 3,
-            "events": [
+            "activities": [
                 {
-                    "event_id": 3,
-                    "event_sequence": 7
+                    "activity_id": 3,
+                    "activity_sequence": 7
                 },
                 {
-                    "event_id": 4,
-                    "event_sequence": 12
+                    "activity_id": 4,
+                    "activity_sequence": 12
                 }
             ],
             "images": [
                 {
                     "file": "BIO172_12_1.png",
-                    "event_id": 4
+                    "activity_id": 4
                 },
                 {
                     "file": "BIO172_12_2.png",
-                    "event_id": 4
+                    "activity_id": 4
                 },
                 {
                     "file": "BIO172_7_1.png",
-                    "event_id": 3
+                    "activity_id": 3
                 }
             ]
         },
         {
             "course_code": "ME350",
             "course_id": 4,
-            "events": [
+            "activities": [
                 {
-                    "event_id": 7,
-                    "event_sequence": 15
+                    "activity_id": 7,
+                    "activity_sequence": 15
+                },
+                {
+                    "activity_id": 12,
+                    "activity_sequence": 12,
+                    "cross_links": [
+                        [
+                            "48 pitch 1\" (pitch diameter) spur gear with 20\u00b0 pressure angle",
+                            "https://www.mcmaster.com/7880K24/"
+                        ],
+                        [
+                            "1 module 20mm spur gear with 20\u00b0 pressure angle",
+                            "https://www.mcmaster.com/2664N539/"
+                        ]
+                    ]
                 }
             ],
             "images": [
                 {
                     "file": "ME350_15_1.png",
-                    "event_id": 7
+                    "activity_id": 7
                 }
             ]
         },
         {
             "course_code": "BME418",
             "course_id": 5,
-            "events": [
+            "activities": [
                 {
-                    "event_id": 6,
-                    "event_sequence": 15
+                    "activity_id": 6,
+                    "activity_sequence": 15
                 }
             ],
             "images": [
                 {
                     "file": "BME418_15_1.png",
-                    "event_id": 6
+                    "activity_id": 6
                 },
                 {
                     "file": "BME418_15_2.png",
-                    "event_id": 6
+                    "activity_id": 6
                 }
             ]
         },
         {
             "course_code": "ChE342",
             "course_id": 6,
-            "events": [
+            "activities": [
                 {
-                    "event_id": 11,
-                    "event_sequence": 1
+                    "activity_id": 11,
+                    "activity_sequence": 1
                 }
             ],
             "images": []
