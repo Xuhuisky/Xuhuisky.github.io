@@ -105,7 +105,21 @@
             "activities": [
                 {
                     "activity_id": 7,
-                    "activity_sequence": 15
+                    "activity_sequence": 15,
+                    "cross_links": [
+                        [
+                            "Sensor 2:\r\nAnalog Sensor",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/4/activity_id/14.html"
+                        ],
+                        [
+                            "Pololu\u00ae 30:1 Metal Gearmotor 37Dx68L mm 12V with 64 CPR Encoder",
+                            "https://www.pololu.com/product/4752"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 },
                 {
                     "activity_id": 12,
@@ -118,12 +132,38 @@
                         [
                             "1 module 20mm spur gear with 20\u00b0 pressure angle",
                             "https://www.mcmaster.com/2664N539/"
+                        ],
+                        [
+                            "(Our Pinion) 32 pitch 0.625\" spur gear with 14.5\u00b0 pressure angle",
+                            "https://www.mcmaster.com/6325K95/"
+                        ],
+                        [
+                            "(Our Gear) 32 pitch 1.250\" spur gear with 14.5\u00b0 pressure angle",
+                            "https://www.mcmaster.com/6325K97/"
+                        ],
+                        [
+                            "",
+                            ""
                         ]
                     ]
                 },
                 {
                     "activity_id": 14,
-                    "activity_sequence": 16
+                    "activity_sequence": 16,
+                    "cross_links": [
+                        [
+                            "Sensor 1:\r\nDigital Motor Encoder",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/4/activity_id/7.html"
+                        ],
+                        [
+                            "Infrared Proximity Sensor Short Range - Sharp GP2Y0A41SK0F",
+                            "https://www.sparkfun.com/products/12728"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 }
             ],
             "images": [
