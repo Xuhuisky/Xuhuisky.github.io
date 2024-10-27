@@ -27,31 +27,31 @@
             ],
             "images": [
                 {
-                    "file": "Socket_102_1.png",
+                    "file": "Socket/Socket_102_1.png",
                     "activity_id": 1
                 },
                 {
-                    "file": "Socket_102_2.png",
+                    "file": "Socket/Socket_102_2.png",
                     "activity_id": 1
                 },
                 {
-                    "file": "Socket_103_1.png",
+                    "file": "Socket/Socket_103_1.png",
                     "activity_id": 9
                 },
                 {
-                    "file": "Socket_104_1.png",
+                    "file": "Socket/Socket_104_1.png",
                     "activity_id": 10
                 },
                 {
-                    "file": "Socket_104_2.png",
+                    "file": "Socket/Socket_104_2.png",
                     "activity_id": 10
                 },
                 {
-                    "file": "Socket_104_3.png",
+                    "file": "Socket/Socket_104_3.png",
                     "activity_id": 10
                 },
                 {
-                    "file": "Socket_105_1.png",
+                    "file": "Socket/Socket_105_1.png",
                     "activity_id": 15
                 }
             ]
@@ -86,15 +86,15 @@
             ],
             "images": [
                 {
-                    "file": "BIO172_12_1.png",
+                    "file": "BIO172/BIO172_12_1.png",
                     "activity_id": 4
                 },
                 {
-                    "file": "BIO172_12_2.png",
+                    "file": "BIO172/BIO172_12_2.png",
                     "activity_id": 4
                 },
                 {
-                    "file": "BIO172_7_1.png",
+                    "file": "BIO172/BIO172_7_1.png",
                     "activity_id": 3
                 }
             ]
@@ -172,27 +172,31 @@
             ],
             "images": [
                 {
-                    "file": "ME350_109_1.png",
+                    "file": "ME350/ME350_109_1.png",
                     "activity_id": 16
                 },
                 {
-                    "file": "ME350_109_2.png",
+                    "file": "ME350/ME350_109_2.png",
                     "activity_id": 16
                 },
                 {
-                    "file": "ME350_12_1.png",
+                    "file": "ME350/ME350_12_1.png",
                     "activity_id": 12
                 },
                 {
-                    "file": "ME350_15_1.png",
+                    "file": "ME350/ME350_15_1.png",
                     "activity_id": 7
                 },
                 {
-                    "file": "ME350_15_2.png",
+                    "file": "ME350/ME350_15_2.png",
                     "activity_id": 7
                 },
                 {
-                    "file": "ME350_16_1.png",
+                    "file": "ME350/ME350_15_3.png",
+                    "activity_id": 7
+                },
+                {
+                    "file": "ME350/ME350_16_1.png",
                     "activity_id": 14
                 }
             ]
@@ -222,19 +226,19 @@
             ],
             "images": [
                 {
-                    "file": "BME418_15_1.png",
+                    "file": "BME418/BME418_15_1.png",
                     "activity_id": 6
                 },
                 {
-                    "file": "BME418_15_2.png",
+                    "file": "BME418/BME418_15_2.png",
                     "activity_id": 6
                 },
                 {
-                    "file": "BME418_16_1.png",
+                    "file": "BME418/BME418_16_1.png",
                     "activity_id": 13
                 },
                 {
-                    "file": "BME418_16_2.png",
+                    "file": "BME418/BME418_16_2.png",
                     "activity_id": 13
                 }
             ]
