@@ -1,0 +1,9 @@
+1. Gfreeze.exe, unix2dos using git; and write a script to only take update file on to keyboards.
+2. Add new cross-link features (and make it consistent), even thinking of distinguishing internal link and external link. (new tab for external, no for internal).
+3. Add G-Polytechnic
+4. Add local web to create new event
+5. Design 'Express' version of G-Paper-Bulletin, G-Course-Memo and G-Polytechnic
+6. Add registration features for users
+7. Add email reminding daily
+8. Add due in GCM
+9. Add subfolder in static/GCM image

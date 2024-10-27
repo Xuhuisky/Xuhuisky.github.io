@@ -164,9 +164,21 @@
                             ""
                         ]
                     ]
+                },
+                {
+                    "activity_id": 16,
+                    "activity_sequence": 109
                 }
             ],
             "images": [
+                {
+                    "file": "ME350_109_1.png",
+                    "activity_id": 16
+                },
+                {
+                    "file": "ME350_109_2.png",
+                    "activity_id": 16
+                },
                 {
                     "file": "ME350_12_1.png",
                     "activity_id": 12
@@ -236,6 +248,24 @@
                     "activity_sequence": 1
                 }
             ],
+            "images": []
+        },
+        {
+            "course_code": "ME320",
+            "course_id": 7,
+            "activities": [],
+            "images": []
+        },
+        {
+            "course_code": "ME240",
+            "course_id": 8,
+            "activities": [],
+            "images": []
+        },
+        {
+            "course_code": "ME250",
+            "course_id": 9,
+            "activities": [],
             "images": []
         }
     ]
