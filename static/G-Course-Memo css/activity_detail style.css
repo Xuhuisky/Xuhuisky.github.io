@@ -37,6 +37,34 @@
             height: auto;  /* Maintain aspect ratio */
             margin-bottom: 10px;
         }
+        /* Very small screen size (e.g., phones) */
+        @media screen and (max-width: 480px) {
+            .image-column img {
+                width: 100%;
+            }
+        }
+
+        /* Smaller screen size (e.g., tablets and below) */
+        @media screen and (max-width: 768px) {
+            .image-column img {
+                width: 70%;
+            }
+        }
+
+        /* Larger screen size (e.g., desktops) */
+        @media screen and (min-width: 1024px) {
+            .image-column img {
+                width: 600px; /* Set a fixed width for large screens */
+            }
+        }
+
+        /* Larger screen size (e.g., desktops) */
+        @media screen and (min-width: 2048px) {
+            .image-column img {
+                width: 1000px; /* Set a fixed width for large screens */
+            }
+        }
+
         /* Ensure the whole page is scalable */
         body {
             overflow-x: hidden;
