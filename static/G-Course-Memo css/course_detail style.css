@@ -25,8 +25,30 @@
         th {
             background-color: #f2f2f2;
         }
-        /* Style the logo images */
-        .academic-image {
-            height: 150px; /* Approximately 10 lines of text height */
+        /* Very small screen size (e.g., phones) */
+        @media screen and (max-width: 480px) {
+            .academic-image {
+                height: 80px; /* Smaller height for better fit */
+            }
         }
-        /* Style for the total row */
+
+        /* Smaller screen size (e.g., tablets) */
+        @media screen and (max-width: 768px) {
+            .academic-image {
+                height: 100px; /* Moderate height for tablets */
+            }
+        }
+
+        /* Larger screen size (e.g., desktops) */
+        @media screen and (min-width: 1024px) {
+            .academic-image {
+                height: 150px; /* Approximately 10 lines of text height */
+            }
+        }
+
+        /* Curved and Ultra-wide Monitor */
+        @media screen and (min-width: 2048px) {
+            .academic-image {
+                height: 300px; /* Approximately 20 lines of text height */
+            }
+        }

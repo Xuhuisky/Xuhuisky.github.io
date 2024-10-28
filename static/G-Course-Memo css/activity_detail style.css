@@ -54,14 +54,14 @@
         /* Larger screen size (e.g., desktops) */
         @media screen and (min-width: 1024px) {
             .image-column img {
-                width: 600px; /* Set a fixed width for large screens */
+                width: 600px;
             }
         }
 
-        /* Larger screen size (e.g., desktops) */
+        /* Curved and Ultra-wide Monitor */
         @media screen and (min-width: 2048px) {
             .image-column img {
-                width: 1000px; /* Set a fixed width for large screens */
+                width: 1000px;
             }
         }
 
