@@ -167,7 +167,21 @@
                 },
                 {
                     "activity_id": 16,
-                    "activity_sequence": 109
+                    "activity_sequence": 109,
+                    "cross_links": [
+                        [
+                            "Sensor 1:\r\nDigital Motor Encoder",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/4/activity_id/7.html"
+                        ],
+                        [
+                            "Pull-up Resistors",
+                            "https://learn.sparkfun.com/tutorials/pull-up-resistors/all"
+                        ],
+                        [
+                            "L298N H-Bridge",
+                            "https://www.sparkfun.com/datasheets/Robotics/L298_H_Bridge.pdf"
+                        ]
+                    ]
                 }
             ],
             "images": [
@@ -226,6 +240,10 @@
                             ""
                         ]
                     ]
+                },
+                {
+                    "activity_id": 17,
+                    "activity_sequence": 14
                 }
             ],
             "images": [
