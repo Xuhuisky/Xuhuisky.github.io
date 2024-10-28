@@ -248,6 +248,14 @@
             ],
             "images": [
                 {
+                    "file": "BME418/BME418_14_1.png",
+                    "activity_id": 17
+                },
+                {
+                    "file": "BME418/BME418_14_2.png",
+                    "activity_id": 17
+                },
+                {
                     "file": "BME418/BME418_15_1.png",
                     "activity_id": 6
                 },
