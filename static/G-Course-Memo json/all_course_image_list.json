@@ -71,9 +71,22 @@
                 {
                     "activity_id": 8,
                     "activity_sequence": 16
+                },
+                {
+                    "activity_id": 20,
+                    "activity_sequence": 17
                 }
             ],
-            "images": []
+            "images": [
+                {
+                    "file": "BME410/BME410_17_1.png",
+                    "activity_id": 20
+                },
+                {
+                    "file": "BME410/BME410_17_2.png",
+                    "activity_id": 20
+                }
+            ]
         },
         {
             "course_code": "BIO172",
@@ -194,6 +207,10 @@
                             "https://www.sparkfun.com/datasheets/Robotics/L298_H_Bridge.pdf"
                         ]
                     ]
+                },
+                {
+                    "activity_id": 21,
+                    "activity_sequence": 17
                 }
             ],
             "images": [
@@ -241,7 +258,7 @@
                     "cross_links": [
                         [
                             "[BIO172] Transcription",
-                            "https://xuhuisky.github.io/734/g-course-memo/course/3/activity_id/3.html"
+                            "https://xuhuisky.github.io/734/g-course-memo/course/3/activity_id/19.html"
                         ],
                         [
                             "",
