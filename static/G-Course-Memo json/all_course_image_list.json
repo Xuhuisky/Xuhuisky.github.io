@@ -23,6 +23,10 @@
                 {
                     "activity_id": 15,
                     "activity_sequence": 105
+                },
+                {
+                    "activity_id": 18,
+                    "activity_sequence": 106
                 }
             ],
             "images": [
@@ -82,6 +86,10 @@
                 {
                     "activity_id": 4,
                     "activity_sequence": 12
+                },
+                {
+                    "activity_id": 19,
+                    "activity_sequence": 9
                 }
             ],
             "images": [
@@ -96,6 +104,10 @@
                 {
                     "file": "BIO172/BIO172_7_1.png",
                     "activity_id": 3
+                },
+                {
+                    "file": "BIO172/BIO172_9_1.png",
+                    "activity_id": 19
                 }
             ]
         },
@@ -225,7 +237,13 @@
             "activities": [
                 {
                     "activity_id": 6,
-                    "activity_sequence": 15
+                    "activity_sequence": 15,
+                    "cross_links": [
+                        [
+                            "[BIO172] Transcription",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/3/activity_id/3.html"
+                        ]
+                    ]
                 },
                 {
                     "activity_id": 13,
