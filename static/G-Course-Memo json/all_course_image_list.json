@@ -223,6 +223,10 @@
                 {
                     "activity_id": 21,
                     "activity_sequence": 17
+                },
+                {
+                    "activity_id": 23,
+                    "activity_sequence": 18
                 }
             ],
             "images": [
@@ -257,6 +261,14 @@
                 {
                     "file": "ME350/ME350_16_1.png",
                     "activity_id": 14
+                },
+                {
+                    "file": "ME350/ME350_18_1.png",
+                    "activity_id": 23
+                },
+                {
+                    "file": "ME350/ME350_18_2.png",
+                    "activity_id": 23
                 }
             ]
         },
