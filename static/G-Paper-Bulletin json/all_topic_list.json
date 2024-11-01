@@ -163,10 +163,30 @@
                     "paper_id": 12
                 },
                 {
-                    "paper_id": 14
+                    "paper_id": 14,
+                    "cross_links": [
+                        [
+                            "R2020 Koons #Bone #tissue engineering",
+                            "https://xuhuisky.github.io/g-paper-bulletin/topic/3/paper_id/24.html"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 },
                 {
-                    "paper_id": 24
+                    "paper_id": 24,
+                    "cross_links": [
+                        [
+                            "R2020 Murphy #3D bioprinting",
+                            "https://xuhuisky.github.io/g-paper-bulletin/topic/3/paper_id/14.html"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 }
             ],
             "images": [
