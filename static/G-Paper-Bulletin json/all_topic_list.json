@@ -1,0 +1,202 @@
+{
+    "topics": [
+        {
+            "topic_id": 0,
+            "papers": [],
+            "images": []
+        },
+        {
+            "topic_id": 1,
+            "papers": [
+                {
+                    "paper_id": 1
+                },
+                {
+                    "paper_id": 2
+                },
+                {
+                    "paper_id": 3
+                },
+                {
+                    "paper_id": 4
+                },
+                {
+                    "paper_id": 13
+                },
+                {
+                    "paper_id": 15
+                },
+                {
+                    "paper_id": 16
+                },
+                {
+                    "paper_id": 17
+                },
+                {
+                    "paper_id": 18
+                },
+                {
+                    "paper_id": 25
+                },
+                {
+                    "paper_id": 26
+                },
+                {
+                    "paper_id": 27
+                }
+            ],
+            "images": [
+                {
+                    "file": "1 Dynamic Socket Testing/1_13_1.png",
+                    "paper_id": 13
+                },
+                {
+                    "file": "1 Dynamic Socket Testing/1_15_1.png",
+                    "paper_id": 15
+                },
+                {
+                    "file": "1 Dynamic Socket Testing/1_1_1.png",
+                    "paper_id": 1
+                },
+                {
+                    "file": "1 Dynamic Socket Testing/1_25_1.png",
+                    "paper_id": 25
+                },
+                {
+                    "file": "1 Dynamic Socket Testing/1_26_1.png",
+                    "paper_id": 26
+                },
+                {
+                    "file": "1 Dynamic Socket Testing/1_27_1.png",
+                    "paper_id": 27
+                },
+                {
+                    "file": "1 Dynamic Socket Testing/1_2_1.png",
+                    "paper_id": 2
+                },
+                {
+                    "file": "1 Dynamic Socket Testing/1_3_1.png",
+                    "paper_id": 3
+                },
+                {
+                    "file": "1 Dynamic Socket Testing/1_3_2.png",
+                    "paper_id": 3
+                },
+                {
+                    "file": "1 Dynamic Socket Testing/1_4_1.png",
+                    "paper_id": 4
+                }
+            ]
+        },
+        {
+            "topic_id": 2,
+            "papers": [
+                {
+                    "paper_id": 5
+                },
+                {
+                    "paper_id": 6
+                },
+                {
+                    "paper_id": 7
+                },
+                {
+                    "paper_id": 8
+                },
+                {
+                    "paper_id": 9
+                },
+                {
+                    "paper_id": 10
+                },
+                {
+                    "paper_id": 11
+                },
+                {
+                    "paper_id": 19
+                },
+                {
+                    "paper_id": 20
+                },
+                {
+                    "paper_id": 21
+                },
+                {
+                    "paper_id": 22
+                }
+            ],
+            "images": [
+                {
+                    "file": "2 Pegloticase Gout Treatment/2_10_1.png",
+                    "paper_id": 10
+                },
+                {
+                    "file": "2 Pegloticase Gout Treatment/2_5_1.png",
+                    "paper_id": 5
+                },
+                {
+                    "file": "2 Pegloticase Gout Treatment/2_5_2.png",
+                    "paper_id": 5
+                },
+                {
+                    "file": "2 Pegloticase Gout Treatment/2_5_3.png",
+                    "paper_id": 5
+                },
+                {
+                    "file": "2 Pegloticase Gout Treatment/2_6_1.png",
+                    "paper_id": 6
+                },
+                {
+                    "file": "2 Pegloticase Gout Treatment/2_7_1.png",
+                    "paper_id": 7
+                },
+                {
+                    "file": "2 Pegloticase Gout Treatment/2_7_2.png",
+                    "paper_id": 7
+                }
+            ]
+        },
+        {
+            "topic_id": 3,
+            "papers": [
+                {
+                    "paper_id": 12
+                },
+                {
+                    "paper_id": 14
+                },
+                {
+                    "paper_id": 24
+                }
+            ],
+            "images": [
+                {
+                    "file": "3 BME410 Paper/3_12_1.png",
+                    "paper_id": 12
+                },
+                {
+                    "file": "3 BME410 Paper/3_14_1.png",
+                    "paper_id": 14
+                },
+                {
+                    "file": "3 BME410 Paper/3_24_1.png",
+                    "paper_id": 24
+                }
+            ]
+        },
+        {
+            "topic_id": 4,
+            "papers": [
+                {
+                    "paper_id": 23
+                }
+            ],
+            "images": [
+                {
+                    "file": "4 BME418 Paper/4_23_1.png",
+                    "paper_id": 23
+                }
+            ]
+        }
+    ]
+}
