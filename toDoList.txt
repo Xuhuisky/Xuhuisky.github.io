@@ -6,5 +6,6 @@ Postpone 4. Add local web to create new event
 6. Add registration features for users
 7. Add email reminding daily
 8. Add due in GCM
-OK 9. Add subfolder in static/GCM image
+OK 9. Add subfolder in static/GCM image and also GPB
 10. G-Scheduler
+11. Random non-express illustrations in express
