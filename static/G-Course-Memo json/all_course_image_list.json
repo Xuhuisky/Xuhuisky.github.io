@@ -372,6 +372,24 @@
             "course_id": 9,
             "activities": [],
             "images": []
+        },
+        {
+            "course_code": "BME241",
+            "course_id": 10,
+            "activities": [],
+            "images": []
+        },
+        {
+            "course_code": "BME211",
+            "course_id": 11,
+            "activities": [],
+            "images": []
+        },
+        {
+            "course_code": "BME458",
+            "course_id": 12,
+            "activities": [],
+            "images": []
         }
     ]
 }
