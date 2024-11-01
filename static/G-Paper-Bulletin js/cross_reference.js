@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 const topics = data.topics;
 
                 // Find the topic object for the given topic_id
-                const topic = topics.find(topic => topics.topic_id === topicId);
+                const topic = topics.find(topic => topic.topic_id === topicId);
                 if (!topic) {
                     console.warn(`No topic found for topic_id: ${topicId}`);
                     container.innerHTML = 'No topic found.';
