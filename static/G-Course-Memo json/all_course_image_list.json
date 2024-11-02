@@ -27,6 +27,14 @@
                 {
                     "activity_id": 18,
                     "activity_sequence": 106
+                },
+                {
+                    "activity_id": 26,
+                    "activity_sequence": 108
+                },
+                {
+                    "activity_id": 27,
+                    "activity_sequence": 107
                 }
             ],
             "images": [
@@ -227,6 +235,10 @@
                 {
                     "activity_id": 23,
                     "activity_sequence": 18
+                },
+                {
+                    "activity_id": 25,
+                    "activity_sequence": 110
                 }
             ],
             "images": [
@@ -241,6 +253,10 @@
                 {
                     "file": "ME350/ME350_109_3.png",
                     "activity_id": 16
+                },
+                {
+                    "file": "ME350/ME350_110_1.png",
+                    "activity_id": 25
                 },
                 {
                     "file": "ME350/ME350_12_1.png",
