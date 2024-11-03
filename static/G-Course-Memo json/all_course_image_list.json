@@ -35,6 +35,10 @@
                 {
                     "activity_id": 27,
                     "activity_sequence": 107
+                },
+                {
+                    "activity_id": 28,
+                    "activity_sequence": 109
                 }
             ],
             "images": [
@@ -73,6 +77,14 @@
                 {
                     "file": "Socket/Socket_108_2.png",
                     "activity_id": 26
+                },
+                {
+                    "file": "Socket/Socket_109_1.png",
+                    "activity_id": 28
+                },
+                {
+                    "file": "Socket/Socket_109_2.png",
+                    "activity_id": 28
                 }
             ]
         },
