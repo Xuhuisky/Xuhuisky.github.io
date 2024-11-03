@@ -402,10 +402,19 @@
             "activities": [
                 {
                     "activity_id": 11,
-                    "activity_sequence": 1
+                    "activity_sequence": 21
                 }
             ],
-            "images": []
+            "images": [
+                {
+                    "file": "ChE342/ChE342_21_1.png",
+                    "activity_id": 11
+                },
+                {
+                    "file": "ChE342/ChE342_21_2.png",
+                    "activity_id": 11
+                }
+            ]
         },
         {
             "course_code": "ME320",
