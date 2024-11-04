@@ -403,6 +403,20 @@
                 {
                     "activity_id": 11,
                     "activity_sequence": 21
+                },
+                {
+                    "activity_id": 29,
+                    "activity_sequence": 20,
+                    "cross_links": [
+                        [
+                            "Equations Governing Flow and Transport in Porous Media",
+                            "https://link.springer.com/chapter/10.1007/978-3-319-69866-3_2"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 }
             ],
             "images": [
