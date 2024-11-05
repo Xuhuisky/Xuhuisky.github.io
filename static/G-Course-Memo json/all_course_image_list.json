@@ -259,6 +259,20 @@
                 {
                     "activity_id": 25,
                     "activity_sequence": 110
+                },
+                {
+                    "activity_id": 30,
+                    "activity_sequence": 13,
+                    "cross_links": [
+                        [
+                            "An example of gears",
+                            "https://www.mcmaster.com/5172T41/"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 }
             ],
             "images": [
@@ -281,6 +295,14 @@
                 {
                     "file": "ME350/ME350_12_1.png",
                     "activity_id": 12
+                },
+                {
+                    "file": "ME350/ME350_13_1.png",
+                    "activity_id": 30
+                },
+                {
+                    "file": "ME350/ME350_13_2.png",
+                    "activity_id": 30
                 },
                 {
                     "file": "ME350/ME350_15_1.png",
