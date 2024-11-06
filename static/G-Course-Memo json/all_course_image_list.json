@@ -129,6 +129,10 @@
                 {
                     "file": "BME410/BME410_18_2.png",
                     "activity_id": 22
+                },
+                {
+                    "file": "BME410/BME410_19_1.png",
+                    "activity_id": 31
                 }
             ]
         },
@@ -353,11 +357,11 @@
                     "activity_id": 21
                 },
                 {
-                    "file": "ME350/ME350_18_1.png",
-                    "activity_id": 23
+                    "file": "ME350/ME350_17_2.png",
+                    "activity_id": 21
                 },
                 {
-                    "file": "ME350/ME350_18_2.png",
+                    "file": "ME350/ME350_18_1.png",
                     "activity_id": 23
                 }
             ]
@@ -401,6 +405,28 @@
                 {
                     "activity_id": 24,
                     "activity_sequence": 17
+                },
+                {
+                    "activity_id": 33,
+                    "activity_sequence": 18,
+                    "cross_links": [
+                        [
+                            "[Lecture 9] Incoherent Feedforward Loop (I-FFL)",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/5/activity_id/9.html"
+                        ]
+                    ]
+                },
+                {
+                    "activity_id": 34,
+                    "activity_sequence": 8
+                },
+                {
+                    "activity_id": 35,
+                    "activity_sequence": 9
+                },
+                {
+                    "activity_id": 36,
+                    "activity_sequence": 7
                 }
             ],
             "images": [
