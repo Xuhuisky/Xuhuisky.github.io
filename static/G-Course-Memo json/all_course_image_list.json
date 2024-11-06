@@ -107,6 +107,10 @@
                 {
                     "activity_id": 22,
                     "activity_sequence": 18
+                },
+                {
+                    "activity_id": 31,
+                    "activity_sequence": 19
                 }
             ],
             "images": [
@@ -269,14 +273,30 @@
                     "activity_sequence": 13,
                     "cross_links": [
                         [
-                            "An example of gears",
+                            "An example of gear",
                             "https://www.mcmaster.com/5172T41/"
+                        ],
+                        [
+                            "Lewis form factor",
+                            "https://www.engineersedge.com/gears/lewis-factor.htm"
+                        ],
+                        [
+                            "(Our Spring Pin for Motor Shaft-Pinion Fixation)1050-1095 Spring Steel Slotted Spring Pin",
+                            "https://www.mcmaster.com/98296A960/"
+                        ],
+                        [
+                            "(Our Dowel Pin for Gear-Input Link Fixation)Dowel Pin",
+                            "https://www.mcmaster.com/98381A471/"
                         ],
                         [
                             "",
                             ""
                         ]
                     ]
+                },
+                {
+                    "activity_id": 32,
+                    "activity_sequence": 19
                 }
             ],
             "images": [
@@ -493,6 +513,12 @@
         {
             "course_code": "BME458",
             "course_id": 12,
+            "activities": [],
+            "images": []
+        },
+        {
+            "course_code": "ME211",
+            "course_id": 13,
             "activities": [],
             "images": []
         }
