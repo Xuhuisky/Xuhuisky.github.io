@@ -181,6 +181,10 @@
                 {
                     "file": "BIO172/BIO172_7_1.png",
                     "activity_id": 3
+                },
+                {
+                    "file": "BIO172/BIO172_9_1.png",
+                    "activity_id": 19
                 }
             ]
         },
@@ -313,6 +317,10 @@
                 {
                     "activity_id": 32,
                     "activity_sequence": 19
+                },
+                {
+                    "activity_id": 44,
+                    "activity_sequence": 20
                 }
             ],
             "images": [
@@ -375,6 +383,14 @@
                 {
                     "file": "ME350/ME350_18_1.png",
                     "activity_id": 23
+                },
+                {
+                    "file": "ME350/ME350_20_1.png",
+                    "activity_id": 44
+                },
+                {
+                    "file": "ME350/ME350_20_2.png",
+                    "activity_id": 44
                 }
             ]
         },
