@@ -286,7 +286,13 @@
                 },
                 {
                     "activity_id": 25,
-                    "activity_sequence": 110
+                    "activity_sequence": 110,
+                    "cross_links": [
+                        [
+                            "[Lecture 20] PID",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/4/activity_id/44.html"
+                        ]
+                    ]
                 },
                 {
                     "activity_id": 30,
@@ -321,6 +327,10 @@
                 {
                     "activity_id": 44,
                     "activity_sequence": 20
+                },
+                {
+                    "activity_id": 45,
+                    "activity_sequence": 14
                 }
             ],
             "images": [
