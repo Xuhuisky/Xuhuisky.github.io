@@ -449,6 +449,20 @@
                 {
                     "activity_id": 40,
                     "activity_sequence": 13
+                },
+                {
+                    "activity_id": 41,
+                    "activity_sequence": 5
+                },
+                {
+                    "activity_id": 42,
+                    "activity_sequence": 6,
+                    "cross_links": [
+                        [
+                            "[Lecture 12] Hill Function",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/5/activity_id/9.html"
+                        ]
+                    ]
                 }
             ],
             "images": [
