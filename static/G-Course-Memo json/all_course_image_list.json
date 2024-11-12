@@ -85,6 +85,14 @@
                             "https://www.omc-stepperonline.com/1-7m-67-encoder-extension-cable-for-closed-loop-stepper-motor-ce2m"
                         ],
                         [
+                            "Yongrun\u00ae XY motorized table customized linear stage motorized linear stage YR-GZS90K with stroke 100mm Alibaba Link ($47.1)",
+                            "https://lsyongrun.en.alibaba.com/product/60456829151-813634228/XY_motorized_table_customized_linear_stage_motorized_linear_stage_YR_GZS90K_with_stroke_100mm.html"
+                        ],
+                        [
+                            "Yongrun\u00ae XY motorized table customized linear stage motorized linear stage YR-GZS90K with stroke 100mm Intro Link ($47.1)",
+                            "https://www.lsyongrun.com/linear-stage/single-axis-robot.html"
+                        ],
+                        [
                             "Electrical Symbol",
                             "https://www.electrical-symbols.com/electric-electronic-symbols/electric-current-symbols.htm"
                         ],
@@ -173,6 +181,10 @@
                 {
                     "activity_id": 43,
                     "activity_sequence": 20
+                },
+                {
+                    "activity_id": 73,
+                    "activity_sequence": 21
                 }
             ],
             "images": [
@@ -207,6 +219,10 @@
                 {
                     "file": "BME410/BME410_20_2.png",
                     "activity_id": 43
+                },
+                {
+                    "file": "BME410/BME410_21_1.png",
+                    "activity_id": 73
                 }
             ]
         },
@@ -393,6 +409,10 @@
                 {
                     "activity_id": 46,
                     "activity_sequence": 111
+                },
+                {
+                    "activity_id": 74,
+                    "activity_sequence": 21
                 }
             ],
             "images": [
@@ -463,6 +483,10 @@
                 {
                     "file": "ME350/ME350_20_2.png",
                     "activity_id": 44
+                },
+                {
+                    "file": "ME350/ME350_21_1.png",
+                    "activity_id": 74
                 }
             ]
         },
@@ -567,6 +591,10 @@
                             "https://xuhuisky.github.io/734/g-course-memo/course/5/activity_id/9.html"
                         ]
                     ]
+                },
+                {
+                    "activity_id": 72,
+                    "activity_sequence": 19
                 }
             ],
             "images": [
@@ -613,6 +641,14 @@
                 {
                     "file": "BME418/BME418_17_1.png",
                     "activity_id": 24
+                },
+                {
+                    "file": "BME418/BME418_18_1.png",
+                    "activity_id": 33
+                },
+                {
+                    "file": "BME418/BME418_19_1.png",
+                    "activity_id": 72
                 }
             ]
         },
