@@ -185,6 +185,10 @@
                 {
                     "activity_id": 73,
                     "activity_sequence": 21
+                },
+                {
+                    "activity_id": 76,
+                    "activity_sequence": 22
                 }
             ],
             "images": [
@@ -223,6 +227,10 @@
                 {
                     "file": "BME410/BME410_21_1.png",
                     "activity_id": 73
+                },
+                {
+                    "file": "BME410/BME410_22_1.png",
+                    "activity_id": 76
                 }
             ]
         },
@@ -595,6 +603,10 @@
                 {
                     "activity_id": 72,
                     "activity_sequence": 19
+                },
+                {
+                    "activity_id": 75,
+                    "activity_sequence": 20
                 }
             ],
             "images": [
@@ -649,6 +661,10 @@
                 {
                     "file": "BME418/BME418_19_1.png",
                     "activity_id": 72
+                },
+                {
+                    "file": "BME418/BME418_20_1.png",
+                    "activity_id": 75
                 }
             ]
         },
