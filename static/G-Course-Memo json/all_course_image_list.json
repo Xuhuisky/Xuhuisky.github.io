@@ -467,8 +467,12 @@
                     "activity_sequence": 110,
                     "cross_links": [
                         [
-                            "[Lecture 20] PID",
+                            "[Lecture 20] Control 2: PID",
                             "https://xuhuisky.github.io/734/g-course-memo/course/4/activity_id/44.html"
+                        ],
+                        [
+                            "",
+                            ""
                         ]
                     ]
                 },
@@ -512,7 +516,21 @@
                 },
                 {
                     "activity_id": 46,
-                    "activity_sequence": 111
+                    "activity_sequence": 111,
+                    "cross_links": [
+                        [
+                            "[Lecture 15] Sensor 1: Digital Motor Encoder",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/4/activity_id/21.html"
+                        ],
+                        [
+                            "[Lecture 20] Control 2: PID",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/4/activity_id/7.html"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 },
                 {
                     "activity_id": 74,
