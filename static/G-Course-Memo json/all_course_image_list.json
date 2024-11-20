@@ -193,6 +193,10 @@
                 {
                     "activity_id": 76,
                     "activity_sequence": 22
+                },
+                {
+                    "activity_id": 103,
+                    "activity_sequence": 23
                 }
             ],
             "images": [
@@ -723,6 +727,10 @@
                         [
                             "[Lecture 12] Hill Function",
                             "https://xuhuisky.github.io/734/g-course-memo/course/5/activity_id/9.html"
+                        ],
+                        [
+                            "",
+                            ""
                         ]
                     ]
                 },
@@ -733,6 +741,20 @@
                 {
                     "activity_id": 75,
                     "activity_sequence": 20
+                },
+                {
+                    "activity_id": 102,
+                    "activity_sequence": 21,
+                    "cross_links": [
+                        [
+                            "[BIO172] Cell Cycle",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/3/activity_id/98.html"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 }
             ],
             "images": [
@@ -791,6 +813,10 @@
                 {
                     "file": "BME418/BME418_20_1.png",
                     "activity_id": 75
+                },
+                {
+                    "file": "BME418/BME418_21_1.png",
+                    "activity_id": 102
                 }
             ]
         },
