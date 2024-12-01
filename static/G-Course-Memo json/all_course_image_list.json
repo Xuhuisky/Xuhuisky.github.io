@@ -201,6 +201,10 @@
                 {
                     "activity_id": 105,
                     "activity_sequence": 24
+                },
+                {
+                    "activity_id": 106,
+                    "activity_sequence": 25
                 }
             ],
             "images": [
