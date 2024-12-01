@@ -391,7 +391,7 @@
                     "activity_sequence": 15,
                     "cross_links": [
                         [
-                            "Sensor 2:\r\nAnalog Sensor",
+                            "[Lecture 16] Sensor 2:\r\nAnalog Sensor",
                             "https://xuhuisky.github.io/734/g-course-memo/course/4/activity_id/14.html"
                         ],
                         [
@@ -439,7 +439,7 @@
                     "activity_sequence": 16,
                     "cross_links": [
                         [
-                            "Sensor 1:\r\nDigital Motor Encoder",
+                            "[Lecture 15] Sensor 1:\r\nDigital Motor Encoder",
                             "https://xuhuisky.github.io/734/g-course-memo/course/4/activity_id/7.html"
                         ],
                         [
@@ -457,7 +457,7 @@
                     "activity_sequence": 109,
                     "cross_links": [
                         [
-                            "Sensor 1:\r\nDigital Motor Encoder",
+                            "[Lecture 15] Sensor 1:\r\nDigital Motor Encoder",
                             "https://xuhuisky.github.io/734/g-course-memo/course/4/activity_id/7.html"
                         ],
                         [
@@ -554,7 +554,39 @@
                 },
                 {
                     "activity_id": 101,
-                    "activity_sequence": 22
+                    "activity_sequence": 22,
+                    "cross_links": [
+                        [
+                            "[Lecture 23] Bearing 2:\r\nFailure Mode-Combined Radial and Axial Loads",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/4/activity_id/107.html"
+                        ],
+                        [
+                            "Emojipedia",
+                            "https://emojipedia.org/"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
+                },
+                {
+                    "activity_id": 107,
+                    "activity_sequence": 23,
+                    "cross_links": [
+                        [
+                            "[Lecture 22] Bearing 1:\r\nFailure Mode-Radial Load Only",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/4/activity_id/101.html"
+                        ],
+                        [
+                            "Emojipedia",
+                            "https://emojipedia.org/"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 }
             ],
             "images": [
@@ -580,6 +612,10 @@
                 },
                 {
                     "file": "ME350/ME350_111_1.png",
+                    "activity_id": 46
+                },
+                {
+                    "file": "ME350/ME350_111_2.png",
                     "activity_id": 46
                 },
                 {
@@ -641,6 +677,30 @@
                 {
                     "file": "ME350/ME350_22_1.png",
                     "activity_id": 101
+                },
+                {
+                    "file": "ME350/ME350_22_2.png",
+                    "activity_id": 101
+                },
+                {
+                    "file": "ME350/ME350_22_2_1.png",
+                    "activity_id": 101
+                },
+                {
+                    "file": "ME350/ME350_22_2_2.png",
+                    "activity_id": 101
+                },
+                {
+                    "file": "ME350/ME350_22_3.png",
+                    "activity_id": 101
+                },
+                {
+                    "file": "ME350/ME350_23_1.png",
+                    "activity_id": 107
+                },
+                {
+                    "file": "ME350/ME350_23_2.png",
+                    "activity_id": 107
                 }
             ]
         },
