@@ -835,6 +835,14 @@
                 {
                     "activity_id": 104,
                     "activity_sequence": 22
+                },
+                {
+                    "activity_id": 108,
+                    "activity_sequence": 23
+                },
+                {
+                    "activity_id": 109,
+                    "activity_sequence": 24
                 }
             ],
             "images": [
@@ -901,6 +909,10 @@
                 {
                     "file": "BME418/BME418_22_1.png",
                     "activity_id": 104
+                },
+                {
+                    "file": "BME418/BME418_24_1.png",
+                    "activity_id": 109
                 }
             ]
         },
