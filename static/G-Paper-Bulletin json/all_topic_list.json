@@ -183,6 +183,14 @@
                             "https://xuhuisky.github.io/g-paper-bulletin/topic/3/paper_id/14.html"
                         ],
                         [
+                            "[Lecture 21] Biodegradable Material 1",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/2/activity_id/73.html"
+                        ],
+                        [
+                            "[Lecture 22] Biodegradable Material 2",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/2/activity_id/76.html"
+                        ],
+                        [
                             "",
                             ""
                         ]
@@ -226,6 +234,35 @@
                 {
                     "file": "4 BME418 Paper/4_23_1.png",
                     "paper_id": 23
+                }
+            ]
+        },
+        {
+            "topic_id": 5,
+            "papers": [
+                {
+                    "paper_id": 29
+                },
+                {
+                    "paper_id": 30
+                }
+            ],
+            "images": [
+                {
+                    "file": "5 BME350 Femoral Artery Bypass/5_29_1(1).png",
+                    "paper_id": 29
+                },
+                {
+                    "file": "5 BME350 Femoral Artery Bypass/5_29_1.png",
+                    "paper_id": 29
+                },
+                {
+                    "file": "5 BME350 Femoral Artery Bypass/5_30_1(1).png",
+                    "paper_id": 30
+                },
+                {
+                    "file": "5 BME350 Femoral Artery Bypass/5_30_1.png",
+                    "paper_id": 30
                 }
             ]
         }
