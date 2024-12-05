@@ -198,6 +198,9 @@
                 },
                 {
                     "paper_id": 28
+                },
+                {
+                    "paper_id": 31
                 }
             ],
             "images": [
@@ -228,12 +231,22 @@
             "papers": [
                 {
                     "paper_id": 23
+                },
+                {
+                    "paper_id": 32
+                },
+                {
+                    "paper_id": 33
                 }
             ],
             "images": [
                 {
                     "file": "4 BME418 Paper/4_23_1.png",
                     "paper_id": 23
+                },
+                {
+                    "file": "4 BME418 Paper/4_32_1.png",
+                    "paper_id": 32
                 }
             ]
         },
@@ -250,6 +263,10 @@
             "images": [
                 {
                     "file": "5 BME350 Femoral Artery Bypass/5_29_1(1).png",
+                    "paper_id": 29
+                },
+                {
+                    "file": "5 BME350 Femoral Artery Bypass/5_29_1(2).png",
                     "paper_id": 29
                 },
                 {
