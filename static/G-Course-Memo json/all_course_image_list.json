@@ -476,7 +476,21 @@
                 },
                 {
                     "activity_id": 23,
-                    "activity_sequence": 18
+                    "activity_sequence": 18,
+                    "cross_links": [
+                        [
+                            "[(part of) A/D convertor][PWM Amplifier/H bridge]L298N",
+                            "https://www.digikey.com/en/products/detail/stmicroelectronics/L298N/585918?msockid=2a203d3fbc696ac228d52874bd7b6b40"
+                        ],
+                        [
+                            "[(part of) A/D convertor]Our motor",
+                            "https://www.pololu.com/product/4752"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 },
                 {
                     "activity_id": 25,
@@ -909,6 +923,10 @@
                 {
                     "file": "BME418/BME418_22_1.png",
                     "activity_id": 104
+                },
+                {
+                    "file": "BME418/BME418_23_1.png",
+                    "activity_id": 108
                 },
                 {
                     "file": "BME418/BME418_24_1.png",
