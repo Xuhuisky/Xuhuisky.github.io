@@ -123,12 +123,23 @@
                 },
                 {
                     "paper_id": 22
+                },
+                {
+                    "paper_id": 36
                 }
             ],
             "images": [
                 {
                     "file": "2 Pegloticase Gout Treatment/2_10_1.png",
                     "paper_id": 10
+                },
+                {
+                    "file": "2 Pegloticase Gout Treatment/2_36_1.png",
+                    "paper_id": 36
+                },
+                {
+                    "file": "2 Pegloticase Gout Treatment/2_36_2.png",
+                    "paper_id": 36
                 },
                 {
                     "file": "2 Pegloticase Gout Treatment/2_5_1.png",
@@ -227,7 +238,15 @@
                     "paper_id": 24
                 },
                 {
+                    "file": "3 BME410 Paper/3_24_3.png",
+                    "paper_id": 24
+                },
+                {
                     "file": "3 BME410 Paper/3_28_1.png",
+                    "paper_id": 28
+                },
+                {
+                    "file": "3 BME410 Paper/3_28_2.png",
                     "paper_id": 28
                 }
             ]
