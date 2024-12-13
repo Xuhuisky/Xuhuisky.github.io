@@ -167,6 +167,14 @@
                     "paper_id": 38
                 },
                 {
+                    "file": "2 Pegloticase Gout Treatment/2_39_1.png",
+                    "paper_id": 39
+                },
+                {
+                    "file": "2 Pegloticase Gout Treatment/2_39_2.png",
+                    "paper_id": 39
+                },
+                {
                     "file": "2 Pegloticase Gout Treatment/2_5_1.png",
                     "paper_id": 5
                 },
@@ -308,6 +316,18 @@
                 },
                 {
                     "paper_id": 30
+                },
+                {
+                    "paper_id": 40
+                },
+                {
+                    "paper_id": 41
+                },
+                {
+                    "paper_id": 42
+                },
+                {
+                    "paper_id": 43
                 }
             ],
             "images": [
@@ -330,6 +350,18 @@
                 {
                     "file": "5 BME350 Femoral Artery Bypass/5_30_1.png",
                     "paper_id": 30
+                },
+                {
+                    "file": "5 BME350 Femoral Artery Bypass/5_40_1.png",
+                    "paper_id": 40
+                },
+                {
+                    "file": "5 BME350 Femoral Artery Bypass/5_41_1.png",
+                    "paper_id": 41
+                },
+                {
+                    "file": "5 BME350 Femoral Artery Bypass/5_43_1.png",
+                    "paper_id": 43
                 }
             ]
         }
