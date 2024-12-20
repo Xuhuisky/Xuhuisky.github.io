@@ -52,3 +52,6 @@
                 height: 300px; /* Approximately 20 lines of text height */
             }
         }
+        h1 {
+            text-align: center; /* Center text and arrows horizontally */
+        }

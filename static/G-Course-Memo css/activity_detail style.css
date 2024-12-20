@@ -37,6 +37,43 @@
             height: auto;  /* Maintain aspect ratio */
             margin-bottom: 10px;
         }
+
+        h1 {
+            text-align: center; /* Center text and arrows horizontally */
+        }
+
+        h2 {
+            position: relative;
+            text-align: center; /* Center text and arrows horizontally */
+        }
+
+        h2 .navigation {
+            text-decoration: none; /* Remove underline from links */
+            color: #333; /* black triangle */
+        }
+
+        h2 .navigation:hover {
+            color: #007BFF; /* Change arrow color on hover */
+        }
+
+        .nav-left, .nav-right {
+            position: absolute;
+            top: 0;
+            font-size: 1.5em;  /* Adjust the size of the arrows */
+        }
+
+        .nav-left {
+            left: 0;
+        }
+
+        .nav-right {
+            right: 0;
+        }
+
+/*        h2 .navigation:active {*/
+/*            color: #0056b3; /* Darker color for active state */*/
+/*        }*/
+
         /* Very small screen size (e.g., phones) */
         @media screen and (max-width: 480px) {
             .image-column img {
