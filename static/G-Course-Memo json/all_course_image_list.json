@@ -901,10 +901,6 @@
             ],
             "images": [
                 {
-                    "file": "BME418/BME418_12_1(1).png",
-                    "activity_id": 39
-                },
-                {
                     "file": "BME418/BME418_12_1.png",
                     "activity_id": 39
                 },
