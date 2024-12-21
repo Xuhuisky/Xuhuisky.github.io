@@ -11,4 +11,69 @@
         /* Hover effect */
         a:hover {
           color: darkblue; /* Optional: change color when hovering */
-        }        
+        }
+
+        h1 {
+            text-align: center; /* Center text and arrows horizontally */
+        }
+
+        h2 a{
+            position: relative;
+            text-align: center; /* Center text and arrows horizontally */
+            text-decoration: none; /* Remove underline from links */
+            color: #333; /* black triangle */
+        }
+
+        h2 a:hover {
+            color: #007BFF; /* Change arrow color on hover */
+        }
+
+        .subprojects {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Dynamic column count */
+            gap: 20px; /* Space between items */
+            justify-content: center; /* Center-align rows with fewer items */
+            justify-items: center; /* Center-align items in each grid cell */
+            padding: 20px; /* Optional padding around the container */
+        }
+
+        /* Define subproject styles */
+        .subproject {
+            text-align: center;
+            width: 200px; /* Fixed width for each subproject */
+            height: auto; /* Auto-adjust height */
+            padding: 10px;
+            border: 1px solid #ccc; /* Optional border */
+            border-radius: 8px; /* Optional rounded corners */
+            background-color: #f9f9f9; /* Optional background color */
+            transition: transform 0.2s, box-shadow 0.2s; /* Optional hover effects */
+        }
+
+        /* Add hover effects */
+        .subproject:hover {
+            transform: scale(1.05); /* Slightly enlarge on hover */
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Add shadow on hover */
+        }
+
+        /* Responsive behavior using media queries */
+        @media (max-width: 768px) { /* For small screens */
+            .subprojects {
+                grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); /* Adjust grid size */
+                gap: 15px; /* Smaller gap for smaller screens */
+                padding: 0 10px; /* Reduce padding */
+            }
+            .subproject {
+                width: 120px; /* Smaller item size */
+            }
+        }
+
+        @media (min-width: 1441px) { /* For large screens */
+            .subprojects {
+                grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Larger items */
+                gap: 25px; /* Increase spacing */
+                padding: 0 50px; /* Add padding for balance */
+            }
+            .subproject {
+                width: 300px; /* Larger item size */
+            }
+        }
