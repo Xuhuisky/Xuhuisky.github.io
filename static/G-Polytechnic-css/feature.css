@@ -69,6 +69,7 @@ h2 .navigation:hover {
     flex: 1;
     margin-left: 15px;
     margin-right: 20px;
+    margin-top: 20px;
 }
 .image-column {
     flex: 1;
@@ -120,4 +121,25 @@ h2 .navigation:hover {
     .image-column img {
         width: 1000px;
     }
+}
+
+/* Ensure the whole page is scalable */
+body {
+    overflow-x: hidden;
+}
+
+.g-button {
+    text-align: center;
+    width: 160px; /* Fixed width for each subproject */
+    height: auto; /* Auto-adjust height */
+    padding: 5px;
+    border: 1px solid #ccc; /* Optional border */
+    border-radius: 8px; /* Optional rounded corners */
+    background-color: #f9f9f9; /* Optional background color */
+    transition: transform 0.2s, box-shadow 0.2s; /* Optional hover effects */
+}
+
+.g-button:hover {
+    transform: scale(1.05); /* Slightly enlarge on hover */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Add shadow on hover */
 }
