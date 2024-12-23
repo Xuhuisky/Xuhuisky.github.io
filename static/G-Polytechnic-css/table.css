@@ -1,0 +1,74 @@
+/* Normal unvisited link */
+a:link {
+  color: blue; /* Change to your desired color */
+}
+
+/* Visited link (after clicking) */
+a:visited {
+  color: blue; /* Same color as unvisited to prevent color change */
+}
+
+/* Hover effect */
+a:hover {
+  color: darkblue; /* Optional: change color when hovering */
+}
+
+/* Optional styling to adjust the table or image */
+h1 {
+    text-align: center; /* Center text and arrows horizontally */
+}
+
+h3 {
+    text-align: center; /* Center text and arrows horizontally */
+}
+
+h1 a, h3 a{
+position: relative;
+text-align: center; /* Center text and arrows horizontally */
+text-decoration: none; /* Remove underline from links */
+color: #333; /* black triangle */
+}
+
+h1 a:hover, h3 a:hover {
+color: #007BFF; /* Change arrow color on hover */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+}
+/* Very small screen size (e.g., phones) */
+@media screen and (max-width: 480px) {
+    .academic-image {
+        height: 80px; /* Smaller height for better fit */
+    }
+}
+
+/* Smaller screen size (e.g., tablets) */
+@media screen and (max-width: 768px) {
+    .academic-image {
+        height: 100px; /* Moderate height for tablets */
+    }
+}
+
+/* Larger screen size (e.g., desktops) */
+@media screen and (min-width: 1024px) {
+    .academic-image {
+        height: 150px; /* Approximately 10 lines of text height */
+    }
+}
+
+/* Curved and Ultra-wide Monitor */
+@media screen and (min-width: 2048px) {
+    .academic-image {
+        height: 300px; /* Approximately 20 lines of text height */
+    }
+}
