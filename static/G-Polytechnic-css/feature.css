@@ -1,0 +1,123 @@
+
+a{
+    text-decoration: none; /* Remove underline from links */
+}
+
+/* Normal unvisited link */
+a:link {
+    color: blue; /* Change to your desired color */
+}
+
+/* Visited link (after clicking) */
+a:visited {
+    color: blue; /* Same color as unvisited to prevent color change */
+}
+
+/* Hover effect */
+a:hover {
+    color: #007BFF; /* Optional: change color when hovering */
+}
+
+h1 {
+    text-align: center; /* Center text and arrows horizontally */
+}
+
+h1 a{
+    position: relative;
+    text-align: center; /* Center text and arrows horizontally */
+    text-decoration: none; /* Remove underline from links */
+    color: #333; /* black triangle */
+}
+
+h1 a:hover{
+    color: #007BFF; /* Change arrow color on hover */
+}
+
+h2 {
+    position: relative;
+    text-align: center; /* Center text and arrows horizontally */
+}
+
+h2 .navigation {
+    text-decoration: none; /* Remove underline from links */
+    color: #333; /* black triangle */
+}
+
+h2 .navigation:hover {
+    color: #007BFF; /* Change arrow color on hover */
+}
+
+.nav-left, .nav-right {
+    position: absolute;
+    top: 0;
+    font-size: 1.5em;  /* Adjust the size of the arrows */
+}
+
+.nav-left {
+    left: 0;
+}
+
+.nav-right {
+    right: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.text-column {
+    flex: 1;
+    margin-left: 15px;
+    margin-right: 20px;
+}
+.image-column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding-right: 20px; /* Add padding to move the image to the left */
+}
+.image-column ul {
+    list-style-type: none;
+    padding: 0;
+}
+.image-column img {
+/*    width: 100%;  /* Ensure the image scales with the container */*/
+    height: auto;  /* Maintain aspect ratio */
+    margin-bottom: 10px;
+}
+
+/* Very small screen size (e.g., phones) */
+@media screen and (max-width: 480px) {
+    .image-column img {
+        width: 100%;
+    }
+}
+
+/* Smaller screen size (e.g., tablets and below) */
+@media screen and (max-width: 800px) {
+    .image-column img {
+        width: 100%;
+    }
+}
+
+/* Larger screen size (e.g., desktops) */
+@media screen and (min-width: 800px) {
+    .image-column img {
+        width: 550px;
+    }
+}
+
+/* Curved and Ultra-wide Monitor */
+@media screen and (min-width: 1280px) {
+    .image-column img {
+        width: 800px;
+    }
+}
+
+/* Curved and Ultra-wide Monitor */
+@media screen and (min-width: 1600px) {
+    .image-column img {
+        width: 1000px;
+    }
+}
