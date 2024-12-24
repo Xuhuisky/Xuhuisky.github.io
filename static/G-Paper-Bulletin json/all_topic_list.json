@@ -364,6 +364,27 @@
                     "paper_id": 43
                 }
             ]
+        },
+        {
+            "topic_id": 6,
+            "papers": [
+                {
+                    "paper_id": 44
+                },
+                {
+                    "paper_id": 45
+                }
+            ],
+            "images": [
+                {
+                    "file": "6 BMDL 3D printer simulation/6_44_1.png",
+                    "paper_id": 44
+                },
+                {
+                    "file": "6 BMDL 3D printer simulation/6_45_1.png",
+                    "paper_id": 45
+                }
+            ]
         }
     ]
 }
