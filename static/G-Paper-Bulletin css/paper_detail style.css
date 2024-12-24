@@ -1,62 +1,97 @@
-        /* Normal unvisited link */
-        a:link {
-            color: blue; /* Change to your desired color */
-        }
-        
-        /* Visited link (after clicking) */
-        a:visited {
-            color: blue; /* Same color as unvisited to prevent color change */
-        }
+/* Normal unvisited link */
+a:link {
+    color: blue; /* Change to your desired color */
+}
 
-        /* Hover effect */
-        a:hover {
-            color: darkblue; /* Optional: change color when hovering */
-        }        
-        .citation-box {
-            background-color: rgba(128, 128, 128, 0.8); /* Grey with 80% opacity */
-            padding: 8px;
-            border-radius: 3px;
-            color: white; /* Text color for contrast */
+/* Visited link (after clicking) */
+a:visited {
+    color: blue; /* Same color as unvisited to prevent color change */
+}
+
+/* Hover effect */
+a:hover {
+    color: darkblue; /* Optional: change color when hovering */
+}        
+.citation-box {
+    background-color: rgba(128, 128, 128, 0.8); /* Grey with 80% opacity */
+    padding: 8px;
+    border-radius: 3px;
+    color: white; /* Text color for contrast */
 /*            font-family: Arial, sans-serif;*/
-            max-width: 450px; /* Optional: to limit the width of the box */
-            margin: 5px 0; /* Adds spacing around the box */
-        }
-        .container {
-            display: flex;
-            justify-content: space-between;
-        }
-        .text-column {
-            flex: 1;
-            margin-left: 15px;
-            margin-right: 20px;
-        }
-        .image-column {
-            flex: 1;
-            display: flex;
-            flex-direction: column;
-            align-items: flex-end;
-            padding-right: 20px; /* Add padding to move the image to the left */
-        }
-        .image-column ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        .image-column img {
-            width: 100%;  /* Ensure the image scales with the container */
-            height: auto;  /* Maintain aspect ratio */
-            margin-bottom: 10px;
-        }
-        /* Ensure the whole page is scalable */
-        body {
-            overflow-x: hidden;
-        }
-        .clickable {
-            color: white; /* The original text color */
+    max-width: 450px; /* Optional: to limit the width of the box */
+    margin: 5px 0; /* Adds spacing around the box */
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.text-column {
+    flex: 1;
+    margin-left: 15px;
+    margin-right: 20px;
+}
+.image-column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding-right: 20px; /* Add padding to move the image to the left */
+}
+.image-column ul {
+    list-style-type: none;
+    padding: 0;
+}
+.image-column img {
+    width: 100%;  /* Ensure the image scales with the container */
+    height: auto;  /* Maintain aspect ratio */
+    margin-bottom: 10px;
+}
+/* Ensure the whole page is scalable */
+body {
+    overflow-x: hidden;
+}
+.clickable {
+    color: white; /* The original text color */
 /*            text-decoration: underline; /* Make it look like a hyperlink */*/
-            cursor: pointer; /* Pointer to indicate it's clickable */
-        }
+    cursor: pointer; /* Pointer to indicate it's clickable */
+}
 
-        .clickable:hover {
-            text-decoration: none; /* Remove underline on hover */
-            color: #ccc; /* Optional: Change color slightly on hover */
-        }        
+.clickable:hover {
+    text-decoration: none; /* Remove underline on hover */
+    color: #ccc; /* Optional: Change color slightly on hover */
+}
+
+/* Very small screen size (e.g., phones) */
+@media screen and (max-width: 480px) {
+    .image-column img {
+        width: 100%;
+    }
+}
+
+/* Smaller screen size (e.g., tablets and below) */
+@media screen and (max-width: 1024px) {
+    .image-column img {
+        width: 70%;
+    }
+}
+
+/* Larger screen size (e.g., desktops) */
+@media screen and (min-width: 1024px) {
+    .image-column img {
+        width: 600px;
+    }
+}
+
+/* Curved and Ultra-wide Monitor */
+@media screen and (min-width: 2560px) {
+    .image-column img {
+        width: 1200px;
+    }
+}
+
+/* Curved and Ultra-wide Monitor */
+@media screen and (min-width: 3144px) {
+    .image-column img {
+        width: 1600px;
+    }
+}
