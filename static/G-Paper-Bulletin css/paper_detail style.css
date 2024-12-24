@@ -95,3 +95,7 @@ body {
         width: 1600px;
     }
 }
+
+h1 {
+    text-align: center; /* Center text and arrows horizontally */
+}
