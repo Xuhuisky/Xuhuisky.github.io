@@ -99,3 +99,14 @@ body {
 h1 {
     text-align: center; /* Center text and arrows horizontally */
 }
+
+h1 a{
+    position: relative;
+    text-align: center; /* Center text and arrows horizontally */
+    text-decoration: none; /* Remove underline from links */
+    color: #333; /* black triangle */
+}
+
+h1 a:hover{
+    color: #007BFF; /* Change arrow color on hover */
+}
