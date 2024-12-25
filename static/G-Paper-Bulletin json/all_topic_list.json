@@ -387,13 +387,33 @@
                     "paper_id": 47
                 },
                 {
-                    "paper_id": 48
+                    "paper_id": 48,
+                    "cross_links": [
+                        [
+                            "[GPoly]PEEK(Polyether Ether Ketone)",
+                            "https://xuhuisky.github.io/734/g-poly/dot/18.html"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 },
                 {
                     "paper_id": 49
                 },
                 {
-                    "paper_id": 50
+                    "paper_id": 50,
+                    "cross_links": [
+                        [
+                            "[GPoly]PEI(Polyetherimide, Ultem)",
+                            "https://xuhuisky.github.io/734/g-poly/dot/19.html"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 }
             ],
             "images": [
