@@ -11,25 +11,90 @@ a:visited {
 /* Hover effect */
 a:hover {
     color: darkblue; /* Optional: change color when hovering */
-}        
-.citation-box {
-    background-color: rgba(128, 128, 128, 0.8); /* Grey with 80% opacity */
-    padding: 8px;
-    border-radius: 3px;
-    color: white; /* Text color for contrast */
-/*            font-family: Arial, sans-serif;*/
-    max-width: 450px; /* Optional: to limit the width of the box */
-    margin: 5px 0; /* Adds spacing around the box */
+}       
+
+/* Ensure the whole page is scalable */
+body {
+    overflow-x: hidden;
 }
+
+.nav-left, .nav-right {
+    position: absolute;
+    top: 0;
+    font-size: 1.5em;  /* Adjust the size of the arrows */
+}
+
+.nav-left {
+    left: 0;
+}
+
+.nav-right {
+    right: 0;
+}
+
 .container {
     display: flex;
     justify-content: space-between;
 }
+
 .text-column {
     flex: 1;
     margin-left: 15px;
     margin-right: 20px;
 }
+
+.ref-box {
+    background-color: #f9f9f9;
+    padding: 12px;
+    border: 1px solid #ccc; /* Optional border */
+    border-radius: 8px; /* Optional rounded corners */
+    margin: 5px 0; /* Adds spacing around the box */
+}
+
+.ref-box h3{
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.g-button {
+    text-align: center;
+/*    width: 160px; /* Fixed width for each subproject */*/
+    height: auto; /* Auto-adjust height */
+    padding: 5px;
+    border: 1px solid #ccc; /* Optional border */
+    border-radius: 8px; /* Optional rounded corners */
+    background-color: #f9f9f9; /* Optional background color */
+    transition: transform 0.2s, box-shadow 0.2s; /* Optional hover effects */
+}
+
+.g-button:hover {
+    transform: scale(1.05); /* Slightly enlarge on hover */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Add shadow on hover */
+}
+
+.g-button a{
+    text-decoration: none; /* Remove underline from links */
+    display: block; /* Makes the element a block-level element */
+    font-size: 1.17em; /* Scales relative to the parent element's font size */
+    font-weight: bold; /* Makes the text bold */
+}
+
+/* Normal unvisited link */
+.g-button a:link {
+    color: blue; /* Change to your desired color */
+}
+
+/* Visited link (after clicking) */
+.g-button a:visited {
+    color: blue; /* Same color as unvisited to prevent color change */
+}
+
+/* Hover effect */
+.g-button a:hover {
+    color: #007BFF; /* Optional: change color when hovering */
+}
+
 .image-column {
     flex: 1;
     display: flex;
@@ -37,28 +102,33 @@ a:hover {
     align-items: flex-end;
     padding-right: 20px; /* Add padding to move the image to the left */
 }
+
 .image-column ul {
     list-style-type: none;
     padding: 0;
 }
+
 .image-column img {
     width: 100%;  /* Ensure the image scales with the container */
     height: auto;  /* Maintain aspect ratio */
     margin-bottom: 10px;
 }
-/* Ensure the whole page is scalable */
-body {
-    overflow-x: hidden;
+
+.citation-box {
+    background-color: #f9f9f9;
+    padding: 8px;
+    border: 1px solid #ccc; /* Optional border */
+    border-radius: 8px; /* Optional rounded corners */
+    margin: 5px 0; /* Adds spacing around the box */
 }
+
 .clickable {
-    color: white; /* The original text color */
-/*            text-decoration: underline; /* Make it look like a hyperlink */*/
     cursor: pointer; /* Pointer to indicate it's clickable */
 }
 
 .clickable:hover {
     text-decoration: none; /* Remove underline on hover */
-    color: #ccc; /* Optional: Change color slightly on hover */
+    color: rgba(128, 128, 128, 0.8); /* Optional: Change color slightly on hover */
 }
 
 /* Very small screen size (e.g., phones) */
@@ -123,18 +193,4 @@ h2 .navigation {
 
 h2 .navigation:hover {
     color: #007BFF; /* Change arrow color on hover */
-}
-
-.nav-left, .nav-right {
-    position: absolute;
-    top: 0;
-    font-size: 1.5em;  /* Adjust the size of the arrows */
-}
-
-.nav-left {
-    left: 0;
-}
-
-.nav-right {
-    right: 0;
 }
