@@ -71,6 +71,21 @@ h2 .navigation:hover {
     margin-right: 20px;
     margin-top: 20px;
 }
+
+.ref-box {
+    background-color: #f9f9f9;
+    padding: 12px;
+    border: 1px solid #ccc; /* Optional border */
+    border-radius: 8px; /* Optional rounded corners */
+    margin: 5px 0; /* Adds spacing around the box */
+}
+
+.ref-box h3{
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
 .image-column {
     flex: 1;
     display: flex;
@@ -130,7 +145,7 @@ body {
 
 .g-button {
     text-align: center;
-    width: 160px; /* Fixed width for each subproject */
+/*    width: 160px; /* Fixed width for each subproject */*/
     height: auto; /* Auto-adjust height */
     padding: 5px;
     border: 1px solid #ccc; /* Optional border */
@@ -142,4 +157,26 @@ body {
 .g-button:hover {
     transform: scale(1.05); /* Slightly enlarge on hover */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Add shadow on hover */
+}
+
+.g-button a{
+    text-decoration: none; /* Remove underline from links */
+    display: block; /* Makes the element a block-level element */
+    font-size: 1.17em; /* Scales relative to the parent element's font size */
+    font-weight: bold; /* Makes the text bold */
+}
+
+/* Normal unvisited link */
+.g-button a:link {
+    color: blue; /* Change to your desired color */
+}
+
+/* Visited link (after clicking) */
+.g-button a:visited {
+    color: blue; /* Same color as unvisited to prevent color change */
+}
+
+/* Hover effect */
+.g-button a:hover {
+    color: #007BFF; /* Optional: change color when hovering */
 }
