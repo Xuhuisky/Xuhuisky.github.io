@@ -481,6 +481,31 @@
                     "paper_id": 53
                 }
             ]
+        },
+        {
+            "topic_id": 7,
+            "papers": [],
+            "images": []
+        },
+        {
+            "topic_id": 8,
+            "papers": [
+                {
+                    "paper_id": 54
+                },
+                {
+                    "paper_id": 55
+                },
+                {
+                    "paper_id": 56
+                }
+            ],
+            "images": []
+        },
+        {
+            "topic_id": 9,
+            "papers": [],
+            "images": []
         }
     ]
 }
