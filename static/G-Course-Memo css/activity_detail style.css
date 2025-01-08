@@ -1,108 +1,104 @@
-        /* Normal unvisited link */
-        a:link {
-            color: blue; /* Change to your desired color */
-        }
-        
-        /* Visited link (after clicking) */
-        a:visited {
-            color: blue; /* Same color as unvisited to prevent color change */
-        }
+/* Normal unvisited link */
+a:link {
+    color: blue; /* Change to your desired color */
+}
 
-        /* Hover effect */
-        a:hover {
-            color: darkblue; /* Optional: change color when hovering */
-        }        
-        .container {
-            display: flex;
-            justify-content: space-between;
-        }
-        .text-column {
-            flex: 1;
-            margin-left: 15px;
-            margin-right: 20px;
-        }
-        .image-column {
-            flex: 1;
-            display: flex;
-            flex-direction: column;
-            align-items: flex-end;
-            padding-right: 20px; /* Add padding to move the image to the left */
-        }
-        .image-column ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        .image-column img {
-            width: 100%;  /* Ensure the image scales with the container */
-            height: auto;  /* Maintain aspect ratio */
-            margin-bottom: 10px;
-        }
+/* Visited link (after clicking) */
+a:visited {
+    color: blue; /* Same color as unvisited to prevent color change */
+}
 
-        h1 {
-            text-align: center; /* Center text and arrows horizontally */
-        }
+/* Hover effect */
+a:hover {
+    color: darkblue; /* Optional: change color when hovering */
+}        
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.text-column {
+    flex: 1;
+    margin-left: 15px;
+    margin-right: 20px;
+}
+.image-column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding-right: 20px; /* Add padding to move the image to the left */
+}
+.image-column ul {
+    list-style-type: none;
+    padding: 0;
+}
+.image-column img {
+    width: 100%;  /* Ensure the image scales with the container */
+    height: auto;  /* Maintain aspect ratio */
+    margin-bottom: 10px;
+}
 
-        h2 {
-            position: relative;
-            text-align: center; /* Center text and arrows horizontally */
-        }
+h1 {
+    text-align: center; /* Center text and arrows horizontally */
+}
 
-        h2 .navigation {
-            text-decoration: none; /* Remove underline from links */
-            color: #333; /* black triangle */
-        }
+h2 {
+    position: relative;
+    text-align: center; /* Center text and arrows horizontally */
+}
 
-        h2 .navigation:hover {
-            color: #007BFF; /* Change arrow color on hover */
-        }
+h2 .navigation {
+    text-decoration: none; /* Remove underline from links */
+    color: #333; /* black triangle */
+}
 
-        .nav-left, .nav-right {
-            position: absolute;
-            top: 0;
-            font-size: 1.5em;  /* Adjust the size of the arrows */
-        }
+h2 .navigation:hover {
+    color: #007BFF; /* Change arrow color on hover */
+}
 
-        .nav-left {
-            left: 0;
-        }
+.nav-left, .nav-right {
+    position: absolute;
+    top: 0;
+    font-size: 1.5em;  /* Adjust the size of the arrows */
+}
 
-        .nav-right {
-            right: 0;
-        }
+.nav-left {
+    left: 0;
+}
 
-/*        h2 .navigation:active {*/
-/*            color: #0056b3; /* Darker color for active state */*/
-/*        }*/
+.nav-right {
+    right: 0;
+}
 
-        /* Very small screen size (e.g., phones) */
-        @media screen and (max-width: 480px) {
-            .image-column img {
-                width: 100%;
-            }
-        }
+/* Very small screen size (e.g., phones) */
+@media screen and (max-width: 480px) {
+    .image-column img {
+        width: 100%;
+    }
+}
 
-        /* Smaller screen size (e.g., tablets and below) */
-        @media screen and (max-width: 768px) {
-            .image-column img {
-                width: 70%;
-            }
-        }
+/* Smaller screen size (e.g., tablets and below) */
+@media screen and (max-width: 1024px) {
+    .image-column img {
+        width: 70%;
+    }
+}
 
-        /* Larger screen size (e.g., desktops) */
-        @media screen and (min-width: 1024px) {
-            .image-column img {
-                width: 600px;
-            }
-        }
+/* Larger screen size (e.g., desktops) */
+@media screen and (min-width: 1024px) {
+    .image-column img {
+        width: 600px;
+    }
+}
 
-        /* Curved and Ultra-wide Monitor */
-        @media screen and (min-width: 2048px) {
-            .image-column img {
-                width: 1000px;
-            }
-        }
+/* Curved and Ultra-wide Monitor */
+@media screen and (min-width: 2048px) {
+    .image-column img {
+        width: 1000px;
+    }
+}
 
-        /* Ensure the whole page is scalable */
-        body {
-            overflow-x: hidden;
-        }
+/* Ensure the whole page is scalable */
+body {
+    overflow-x: hidden;
+}
