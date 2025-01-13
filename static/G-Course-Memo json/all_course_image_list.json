@@ -213,6 +213,34 @@
                 {
                     "activity_id": 111,
                     "activity_sequence": 27
+                },
+                {
+                    "activity_id": 117,
+                    "activity_sequence": 9,
+                    "cross_links": [
+                        [
+                            "[G Poly] Materials-Material Characterization-Surface Characterization",
+                            "https://xuhuisky.github.io/734/g-poly/module/23.html"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
+                },
+                {
+                    "activity_id": 118,
+                    "activity_sequence": 10,
+                    "cross_links": [
+                        [
+                            "[G Poly] Materials-Material Characterization-Surface Characterization",
+                            "https://xuhuisky.github.io/734/g-poly/module/23.html"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 }
             ],
             "images": [
@@ -255,6 +283,10 @@
                 {
                     "file": "BME410/BME410_22_1.png",
                     "activity_id": 76
+                },
+                {
+                    "file": "BME410/BME410_9_1.png",
+                    "activity_id": 117
                 }
             ]
         },

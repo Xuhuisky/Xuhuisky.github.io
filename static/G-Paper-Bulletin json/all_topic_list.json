@@ -506,6 +506,33 @@
             "topic_id": 9,
             "papers": [],
             "images": []
+        },
+        {
+            "topic_id": 10,
+            "papers": [
+                {
+                    "paper_id": 57
+                },
+                {
+                    "paper_id": 58
+                }
+            ],
+            "images": []
+        },
+        {
+            "topic_id": 11,
+            "papers": [],
+            "images": []
+        },
+        {
+            "topic_id": 12,
+            "papers": [],
+            "images": []
+        },
+        {
+            "topic_id": 13,
+            "papers": [],
+            "images": []
         }
     ]
 }

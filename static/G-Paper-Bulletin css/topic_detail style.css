@@ -79,3 +79,17 @@ h1 a{
 h1 a:hover{
     color: #007BFF; /* Change arrow color on hover */
 }
+
+.ref-box {
+    background-color: #f9f9f9;
+    padding: 12px;
+    border: 1px solid #ccc; /* Optional border */
+    border-radius: 8px; /* Optional rounded corners */
+    margin: 5px 0; /* Adds spacing around the box */
+}
+
+.ref-box h3{
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
