@@ -1227,7 +1227,22 @@
         {
             "course_code": "BME419",
             "course_id": 16,
-            "activities": [],
+            "activities": [
+                {
+                    "activity_id": 119,
+                    "activity_sequence": 2,
+                    "cross_links": [
+                        [
+                            "[BME418] BIG Model (Insulin Receptors as an Ion Channel)",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/5/activity_id/108.html"
+                        ],
+                        [
+                            "[BIO172] Chemistry Bonds and Membrnaes",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/3/activity_id/81.html"
+                        ]
+                    ]
+                }
+            ],
             "images": []
         },
         {
@@ -1239,8 +1254,34 @@
                     "activity_sequence": 1,
                     "cross_links": [
                         [
-                            "FDA Mission",
+                            "[FDA] American Chamber of Horror",
                             "https://www.youtube.com/watch?v=Zu_erFKxHj8"
+                        ],
+                        [
+                            "[UMich] Innovation Partnerships",
+                            "https://innovationpartnerships.umich.edu/"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
+                },
+                {
+                    "activity_id": 120,
+                    "activity_sequence": 2,
+                    "cross_links": [
+                        [
+                            "[Market Report-Technavio] Hydrocephalus Shunts",
+                            "https://www.technavio.com/report/hydrocephalus-shunts-market-industry-analysis"
+                        ],
+                        [
+                            "[Market Report-Grand View Research] Hydrocephalus Shunts",
+                            "https://www.grandviewresearch.com/industry-analysis/hydrocephalus-shunts-market-report"
+                        ],
+                        [
+                            "[Market Report-Market Research Future] Hydrocephalus Market",
+                            "https://www.marketresearchfuture.com/reports/hydrocephalus-market-1719"
                         ],
                         [
                             "",
@@ -1249,6 +1290,12 @@
                     ]
                 }
             ],
+            "images": []
+        },
+        {
+            "course_code": "BME534",
+            "course_id": 18,
+            "activities": [],
             "images": []
         }
     ]
