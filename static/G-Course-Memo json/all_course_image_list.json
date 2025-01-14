@@ -1237,13 +1237,22 @@
                             "https://xuhuisky.github.io/734/g-course-memo/course/5/activity_id/108.html"
                         ],
                         [
-                            "[BIO172] Chemistry Bonds and Membrnaes",
+                            "[BIO172] Chemistry Bonds and Membranes",
                             "https://xuhuisky.github.io/734/g-course-memo/course/3/activity_id/81.html"
+                        ],
+                        [
+                            "",
+                            ""
                         ]
                     ]
                 }
             ],
-            "images": []
+            "images": [
+                {
+                    "file": "BME419/BME419_2_1.png",
+                    "activity_id": 119
+                }
+            ]
         },
         {
             "course_code": "BME450",
@@ -1254,12 +1263,16 @@
                     "activity_sequence": 1,
                     "cross_links": [
                         [
-                            "[FDA] American Chamber of Horror",
+                            "[Youtube-FDA] American Chamber of Horror",
                             "https://www.youtube.com/watch?v=Zu_erFKxHj8"
                         ],
                         [
                             "[UMich] Innovation Partnerships",
                             "https://innovationpartnerships.umich.edu/"
+                        ],
+                        [
+                            "[Youtube-Michigan Engineering] Intellectual Property",
+                            "https://www.youtube.com/watch?v=-8G1iwkWzBs"
                         ],
                         [
                             "",
@@ -1271,6 +1284,10 @@
                     "activity_id": 120,
                     "activity_sequence": 2,
                     "cross_links": [
+                        [
+                            "[Youtube-McGill] Self-awareness in Teamworks",
+                            "https://www.youtube.com/watch?v=0xaRd_gOI0E"
+                        ],
                         [
                             "[Market Report-Technavio] Hydrocephalus Shunts",
                             "https://www.technavio.com/report/hydrocephalus-shunts-market-industry-analysis"
