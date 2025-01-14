@@ -1344,7 +1344,12 @@
                     "activity_sequence": 2
                 }
             ],
-            "images": []
+            "images": [
+                {
+                    "file": "BME332/BME332_2_1.png",
+                    "activity_id": 121
+                }
+            ]
         }
     ]
 }
