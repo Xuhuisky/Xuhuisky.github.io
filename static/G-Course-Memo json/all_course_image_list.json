@@ -1334,6 +1334,17 @@
             "course_id": 18,
             "activities": [],
             "images": []
+        },
+        {
+            "course_code": "BME332",
+            "course_id": 19,
+            "activities": [
+                {
+                    "activity_id": 121,
+                    "activity_sequence": 2
+                }
+            ],
+            "images": []
         }
     ]
 }
