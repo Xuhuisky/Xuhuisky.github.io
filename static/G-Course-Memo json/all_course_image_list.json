@@ -1245,6 +1245,98 @@
                             ""
                         ]
                     ]
+                },
+                {
+                    "activity_id": 122,
+                    "activity_sequence": 3
+                },
+                {
+                    "activity_id": 123,
+                    "activity_sequence": 1
+                },
+                {
+                    "activity_id": 124,
+                    "activity_sequence": 4
+                },
+                {
+                    "activity_id": 125,
+                    "activity_sequence": 5
+                },
+                {
+                    "activity_id": 126,
+                    "activity_sequence": 6
+                },
+                {
+                    "activity_id": 127,
+                    "activity_sequence": 7
+                },
+                {
+                    "activity_id": 128,
+                    "activity_sequence": 8
+                },
+                {
+                    "activity_id": 129,
+                    "activity_sequence": 9
+                },
+                {
+                    "activity_id": 130,
+                    "activity_sequence": 10
+                },
+                {
+                    "activity_id": 131,
+                    "activity_sequence": 11
+                },
+                {
+                    "activity_id": 132,
+                    "activity_sequence": 12
+                },
+                {
+                    "activity_id": 133,
+                    "activity_sequence": 13
+                },
+                {
+                    "activity_id": 134,
+                    "activity_sequence": 14
+                },
+                {
+                    "activity_id": 135,
+                    "activity_sequence": 15
+                },
+                {
+                    "activity_id": 136,
+                    "activity_sequence": 16
+                },
+                {
+                    "activity_id": 137,
+                    "activity_sequence": 17
+                },
+                {
+                    "activity_id": 138,
+                    "activity_sequence": 18
+                },
+                {
+                    "activity_id": 139,
+                    "activity_sequence": 19
+                },
+                {
+                    "activity_id": 140,
+                    "activity_sequence": 20
+                },
+                {
+                    "activity_id": 141,
+                    "activity_sequence": 21
+                },
+                {
+                    "activity_id": 142,
+                    "activity_sequence": 22
+                },
+                {
+                    "activity_id": 143,
+                    "activity_sequence": 23
+                },
+                {
+                    "activity_id": 144,
+                    "activity_sequence": 24
                 }
             ],
             "images": [
@@ -1332,7 +1424,12 @@
         {
             "course_code": "BME534",
             "course_id": 18,
-            "activities": [],
+            "activities": [
+                {
+                    "activity_id": 145,
+                    "activity_sequence": 3
+                }
+            ],
             "images": []
         },
         {
