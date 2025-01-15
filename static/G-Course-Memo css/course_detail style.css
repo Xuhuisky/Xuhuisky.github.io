@@ -1,57 +1,87 @@
-        /* Normal unvisited link */
-        a:link {
-          color: blue; /* Change to your desired color */
-        }
-        
-        /* Visited link (after clicking) */
-        a:visited {
-          color: blue; /* Same color as unvisited to prevent color change */
-        }
+/* Normal unvisited link */
+a:link {
+  color: blue; /* Change to your desired color */
+}
 
-        /* Hover effect */
-        a:hover {
-          color: darkblue; /* Optional: change color when hovering */
-        }        
-        /* Optional styling to adjust the table or image */
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: left;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-        /* Very small screen size (e.g., phones) */
-        @media screen and (max-width: 480px) {
-            .academic-image {
-                height: 80px; /* Smaller height for better fit */
-            }
-        }
+/* Visited link (after clicking) */
+a:visited {
+  color: blue; /* Same color as unvisited to prevent color change */
+}
 
-        /* Smaller screen size (e.g., tablets) */
-        @media screen and (max-width: 768px) {
-            .academic-image {
-                height: 100px; /* Moderate height for tablets */
-            }
-        }
+/* Hover effect */
+a:hover {
+  color: darkblue; /* Optional: change color when hovering */
+}        
+/* Optional styling to adjust the table or image */
 
-        /* Larger screen size (e.g., desktops) */
-        @media screen and (min-width: 1024px) {
-            .academic-image {
-                height: 150px; /* Approximately 10 lines of text height */
-            }
-        }
+h1 {
+    text-align: center; /* Center text and arrows horizontally */
+}
 
-        /* Curved and Ultra-wide Monitor */
-        @media screen and (min-width: 2048px) {
-            .academic-image {
-                height: 300px; /* Approximately 20 lines of text height */
-            }
-        }
-        h1 {
-            text-align: center; /* Center text and arrows horizontally */
-        }
+h1 a{
+    position: relative;
+    text-align: center; /* Center text and arrows horizontally */
+    text-decoration: none; /* Remove underline from links */
+    color: #333; /* black triangle */
+}
+
+h1 a:hover{
+    color: #007BFF; /* Change arrow color on hover */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+}
+/* Very small screen size (e.g., phones) */
+@media screen and (max-width: 480px) {
+    .academic-image {
+        height: 80px; /* Smaller height for better fit */
+    }
+}
+
+/* Smaller screen size (e.g., tablets) */
+@media screen and (max-width: 768px) {
+    .academic-image {
+        height: 100px; /* Moderate height for tablets */
+    }
+}
+
+/* Larger screen size (e.g., desktops) */
+@media screen and (min-width: 1024px) {
+    .academic-image {
+        height: 150px; /* Approximately 10 lines of text height */
+    }
+}
+
+/* Curved and Ultra-wide Monitor */
+@media screen and (min-width: 2048px) {
+    .academic-image {
+        height: 300px; /* Approximately 20 lines of text height */
+    }
+}
+h1 {
+    text-align: center; /* Center text and arrows horizontally */
+}
+
+.ref-box {
+    background-color: #f9f9f9;
+    padding: 12px;
+    border: 1px solid #ccc; /* Optional border */
+    border-radius: 8px; /* Optional rounded corners */
+    margin: 5px 0; /* Adds spacing around the box */
+}
+
+.ref-box h3{
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
