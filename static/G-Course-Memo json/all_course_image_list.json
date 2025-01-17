@@ -1427,12 +1427,8 @@
                             "https://www.medtronic.com/en-us/l/patients/treatments-therapies/hydrocephalus-shunt/strata-valves.html"
                         ],
                         [
-                            "[Template] Memo",
+                            "[Template] Short Report Template",
                             "https://umich.instructure.com/courses/746852/files/search?preview=38906753&search_term=template"
-                        ],
-                        [
-                            "[LBME] BME Design Space",
-                            "https://sites.google.com/umich.edu/bmedesignspaces/simulation-studio/access-inventory?authuser=0"
                         ],
                         [
                             "[Canvas] Eng Manager: Jim Grotberg, Doc Manager: Sam Jensen",
@@ -1443,6 +1439,102 @@
                             ""
                         ]
                     ]
+                },
+                {
+                    "activity_id": 148,
+                    "activity_sequence": 4
+                },
+                {
+                    "activity_id": 149,
+                    "activity_sequence": 5
+                },
+                {
+                    "activity_id": 150,
+                    "activity_sequence": 6
+                },
+                {
+                    "activity_id": 151,
+                    "activity_sequence": 7
+                },
+                {
+                    "activity_id": 152,
+                    "activity_sequence": 8
+                },
+                {
+                    "activity_id": 153,
+                    "activity_sequence": 9
+                },
+                {
+                    "activity_id": 154,
+                    "activity_sequence": 10
+                },
+                {
+                    "activity_id": 155,
+                    "activity_sequence": 11
+                },
+                {
+                    "activity_id": 156,
+                    "activity_sequence": 12
+                },
+                {
+                    "activity_id": 157,
+                    "activity_sequence": 13
+                },
+                {
+                    "activity_id": 158,
+                    "activity_sequence": 14
+                },
+                {
+                    "activity_id": 159,
+                    "activity_sequence": 15
+                },
+                {
+                    "activity_id": 160,
+                    "activity_sequence": 16
+                },
+                {
+                    "activity_id": 161,
+                    "activity_sequence": 17
+                },
+                {
+                    "activity_id": 162,
+                    "activity_sequence": 18
+                },
+                {
+                    "activity_id": 163,
+                    "activity_sequence": 19
+                },
+                {
+                    "activity_id": 164,
+                    "activity_sequence": 20
+                },
+                {
+                    "activity_id": 165,
+                    "activity_sequence": 21
+                },
+                {
+                    "activity_id": 166,
+                    "activity_sequence": 22
+                },
+                {
+                    "activity_id": 167,
+                    "activity_sequence": 23
+                },
+                {
+                    "activity_id": 168,
+                    "activity_sequence": 24
+                },
+                {
+                    "activity_id": 169,
+                    "activity_sequence": 25
+                },
+                {
+                    "activity_id": 170,
+                    "activity_sequence": 26
+                },
+                {
+                    "activity_id": 171,
+                    "activity_sequence": 27
                 }
             ],
             "images": [
