@@ -1377,40 +1377,40 @@
                     "activity_sequence": 2,
                     "cross_links": [
                         [
-                            "[Youtube-McGill] Self-awareness in Teamworks",
+                            "[Youtube-McGill] Self-awareness",
                             "https://www.youtube.com/watch?v=0xaRd_gOI0E"
                         ],
                         [
-                            "[Market Report-Technavio] Hydrocephalus Shunts",
+                            "[Market Report] Hydrocephalus Shunts",
                             "https://www.technavio.com/report/hydrocephalus-shunts-market-industry-analysis"
                         ],
                         [
-                            "[Market Report-Grand View Research] Hydrocephalus Shunts",
-                            "https://www.grandviewresearch.com/industry-analysis/hydrocephalus-shunts-market-report"
-                        ],
-                        [
-                            "[Market Report-Market Research Future] Hydrocephalus Market",
-                            "https://www.marketresearchfuture.com/reports/hydrocephalus-market-1719"
-                        ],
-                        [
-                            "BME450 Teamwork Expectation Charter",
+                            "[Google Doc] Charter",
                             "https://docs.google.com/document/d/1M0gNYzO6EiJY6b9C0JIUoeSrc6VIYQuW_MoieiEm6WM/edit?tab=t.0"
                         ],
                         [
-                            "BME450 Stakeholder Interviews",
+                            "[Google Doc] Stakeholder Interviews",
                             "https://docs.google.com/document/d/1KyQvxZAILtgYJ94SDT0RQLEgeXUk1RX7oi_BxQ3PKsA/edit?tab=t.0"
-                        ],
-                        [
-                            "[UMich Lib BME librarian] Luesoni Kuck",
-                            "https://www.lib.umich.edu/users/lkuck"
                         ],
                         [
                             "[Homework] User Needs Assignment",
                             "https://umich.instructure.com/courses/746852/assignments/2592076"
                         ],
                         [
-                            "[When2meet] Team Schedule",
-                            "https://www.when2meet.com/?28358943-p54je"
+                            "[UM Lib] Industry and Market Report",
+                            "https://guides.lib.umich.edu/ld.php?content_id=76572321"
+                        ],
+                        [
+                            "[FDA] Product Classification",
+                            "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm"
+                        ],
+                        [
+                            "[FDA] 510(k) Premarket Notification",
+                            "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm"
+                        ],
+                        [
+                            "[FDA] Premarket Approval (PMA)",
+                            "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm"
                         ],
                         [
                             "",
@@ -1431,8 +1431,12 @@
                             "https://umich.instructure.com/courses/746852/files/search?preview=38906753&search_term=template"
                         ],
                         [
-                            "BME Design Space",
+                            "[LBME] BME Design Space",
                             "https://sites.google.com/umich.edu/bmedesignspaces/simulation-studio/access-inventory?authuser=0"
+                        ],
+                        [
+                            "[Canvas] Eng Manager: Jim Grotberg, Doc Manager: Sam Jensen",
+                            "https://umich.instructure.com/courses/746852/pages/managers-list"
                         ],
                         [
                             "",
@@ -1441,7 +1445,16 @@
                     ]
                 }
             ],
-            "images": []
+            "images": [
+                {
+                    "file": "BME450/BME450_1_1.png",
+                    "activity_id": 116
+                },
+                {
+                    "file": "BME450/BME450_2_1.png",
+                    "activity_id": 120
+                }
+            ]
         },
         {
             "course_code": "BME534",
