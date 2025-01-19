@@ -542,6 +542,15 @@
                 }
             ],
             "images": []
+        },
+        {
+            "topic_id": 15,
+            "papers": [
+                {
+                    "paper_id": 60
+                }
+            ],
+            "images": []
         }
     ]
 }
