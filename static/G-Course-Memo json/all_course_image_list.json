@@ -328,7 +328,21 @@
                 },
                 {
                     "activity_id": 81,
-                    "activity_sequence": 2
+                    "activity_sequence": 2,
+                    "cross_links": [
+                        [
+                            "[BME418] Lec.2 Foundations of Physiology 2: Diffusion and Transport (Quantitative)",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/16/activity_id/119.html"
+                        ],
+                        [
+                            "[BME418] Lec.3 Foundations of Physiology 3: Osmosis and Osmolarity (Quantitative)",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/16/activity_id/122.html"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 },
                 {
                     "activity_id": 82,
@@ -1237,7 +1251,7 @@
                             "https://xuhuisky.github.io/734/g-course-memo/course/5/activity_id/108.html"
                         ],
                         [
-                            "[BIO172] Chemistry Bonds and Membranes",
+                            "[BIO172] Lec.2 Bonds and Membrane (qualitative)",
                             "https://xuhuisky.github.io/734/g-course-memo/course/3/activity_id/81.html"
                         ],
                         [
@@ -1248,7 +1262,17 @@
                 },
                 {
                     "activity_id": 122,
-                    "activity_sequence": 3
+                    "activity_sequence": 3,
+                    "cross_links": [
+                        [
+                            "[BIO172] Lec.2 Bonds and Membrane (qualitative)",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/3/activity_id/81.html"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 },
                 {
                     "activity_id": 123,
