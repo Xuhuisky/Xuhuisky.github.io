@@ -1247,12 +1247,12 @@
                     "activity_sequence": 2,
                     "cross_links": [
                         [
-                            "[BME418] BIG Model (Insulin Receptors as an Ion Channel)",
-                            "https://xuhuisky.github.io/734/g-course-memo/course/5/activity_id/108.html"
-                        ],
-                        [
                             "[BIO172] Lec.2 Bonds and Membrane (qualitative)",
                             "https://xuhuisky.github.io/734/g-course-memo/course/3/activity_id/81.html"
+                        ],
+                        [
+                            "[ChE342] Mass and Heat Transfer",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/6/activity_sequence.html"
                         ],
                         [
                             "",
@@ -1267,6 +1267,10 @@
                         [
                             "[BIO172] Lec.2 Bonds and Membrane (qualitative)",
                             "https://xuhuisky.github.io/734/g-course-memo/course/3/activity_id/81.html"
+                        ],
+                        [
+                            "[ME320] Fluid Mechanics",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/7/activity_sequence.html"
                         ],
                         [
                             "",
