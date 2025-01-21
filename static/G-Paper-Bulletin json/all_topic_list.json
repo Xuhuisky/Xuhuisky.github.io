@@ -539,6 +539,15 @@
             "papers": [
                 {
                     "paper_id": 59
+                },
+                {
+                    "paper_id": 62
+                },
+                {
+                    "paper_id": 63
+                },
+                {
+                    "paper_id": 64
                 }
             ],
             "images": []
@@ -548,6 +557,9 @@
             "papers": [
                 {
                     "paper_id": 60
+                },
+                {
+                    "paper_id": 61
                 }
             ],
             "images": []
