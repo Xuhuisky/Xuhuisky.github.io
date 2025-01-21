@@ -1449,6 +1449,10 @@
                             "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm"
                         ],
                         [
+                            "[FDA] 510(k) for JXG",
+                            "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?start_search=1&Center=&Panel=&ProductCode=JXG&KNumber=&Applicant=&DeviceName=&Type=&ThirdPartyReviewed=&ClinicalTrials=&Decision=&DecisionDateFrom=&DecisionDateTo=01%2F20%2F2025&IVDProducts=&Redact510K=&CombinationProducts=&ZNumber=&PAGENUM=500&sortcolumn=dd_desc"
+                        ],
+                        [
                             "[FDA] Premarket Approval (PMA)",
                             "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm"
                         ],
