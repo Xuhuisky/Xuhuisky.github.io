@@ -1498,7 +1498,25 @@
                 },
                 {
                     "activity_id": 148,
-                    "activity_sequence": 4
+                    "activity_sequence": 4,
+                    "cross_links": [
+                        [
+                            "[FDA] Total Product Life Cycle",
+                            "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTPLC/tplc.cfm"
+                        ],
+                        [
+                            "[FDA] Manufacturer and User Facility Device Experience",
+                            "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfmaude/search.cfm"
+                        ],
+                        [
+                            "[Patent] Espacenet",
+                            "https://worldwide.espacenet.com/"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 },
                 {
                     "activity_id": 149,
