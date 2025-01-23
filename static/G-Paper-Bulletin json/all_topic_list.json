@@ -548,9 +548,17 @@
                 },
                 {
                     "paper_id": 64
+                },
+                {
+                    "paper_id": 66
                 }
             ],
-            "images": []
+            "images": [
+                {
+                    "file": "14 BME450 Paper/14_66_1.png",
+                    "paper_id": 66
+                }
+            ]
         },
         {
             "topic_id": 15,
