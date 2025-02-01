@@ -316,11 +316,31 @@
                 },
                 {
                     "activity_id": 78,
-                    "activity_sequence": 25
+                    "activity_sequence": 25,
+                    "cross_links": [
+                        [
+                            "[BME419] Lec.4 Neuro 1",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/16/activity_id/124.html"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 },
                 {
                     "activity_id": 79,
-                    "activity_sequence": 26
+                    "activity_sequence": 26,
+                    "cross_links": [
+                        [
+                            "[BME419] Lec.4 Neuro 1",
+                            "https://xuhuisky.github.io/734/g-course-memo/course/16/activity_id/124.html"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 },
                 {
                     "activity_id": 80,
