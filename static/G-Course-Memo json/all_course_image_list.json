@@ -1278,7 +1278,12 @@
                     ]
                 }
             ],
-            "images": []
+            "images": [
+                {
+                    "file": "Nylon3DPrinter/Nylon3DPrinter_2_1.png",
+                    "activity_id": 175
+                }
+            ]
         },
         {
             "course_code": "BME419",
