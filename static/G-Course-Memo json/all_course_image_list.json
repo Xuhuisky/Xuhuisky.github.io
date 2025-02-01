@@ -1254,6 +1254,28 @@
                 {
                     "activity_id": 115,
                     "activity_sequence": 1
+                },
+                {
+                    "activity_id": 175,
+                    "activity_sequence": 2,
+                    "cross_links": [
+                        [
+                            "[COMSOL] Power Supply Unit",
+                            "https://www.comsol.com/model/forced-convection-cooling-of-an-enclosure-with-fan-and-grille-6222"
+                        ],
+                        [
+                            "[COMSOL] Oven",
+                            "https://www.comsol.com/model/domestic-oven-103081"
+                        ],
+                        [
+                            "[COMSOL] Air-cooled battery energy storage system",
+                            "https://www.comsol.com/model/air-cooled-battery-energy-storage-system-121131"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 }
             ],
             "images": []
