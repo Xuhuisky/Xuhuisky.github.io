@@ -1570,11 +1570,11 @@
                             "https://docs.google.com/document/d/1KyQvxZAILtgYJ94SDT0RQLEgeXUk1RX7oi_BxQ3PKsA/edit?tab=t.0"
                         ],
                         [
-                            "[Homework] User Needs Assignment",
+                            "[Assignment] User Needs",
                             "https://umich.instructure.com/courses/746852/assignments/2592076"
                         ],
                         [
-                            "[Homework] User Needs Rubric",
+                            "[Assignment] User Needs Rubric",
                             "https://umich.instructure.com/courses/746852/files/search?preview=39217426&search_term=rubric"
                         ],
                         [
@@ -1646,11 +1646,11 @@
                             "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm"
                         ],
                         [
-                            "[Homework] Design Input Assignment",
+                            "[Assignment] Design Input",
                             "https://umich.instructure.com/courses/746852/assignments/2592032"
                         ],
                         [
-                            "[Homework] Design Input Rubrics",
+                            "[Assignment] Design Input Rubrics",
                             "https://umich.instructure.com/courses/746852/assignments/2592032?module_item_id=4127870"
                         ],
                         [
@@ -1863,6 +1863,10 @@
                 {
                     "activity_id": 176,
                     "activity_sequence": 7
+                },
+                {
+                    "activity_id": 177,
+                    "activity_sequence": 8
                 }
             ],
             "images": [
@@ -1889,6 +1893,18 @@
                 {
                     "file": "BME332/BME332_6_1.png",
                     "activity_id": 174
+                },
+                {
+                    "file": "BME332/BME332_7_1.png",
+                    "activity_id": 176
+                },
+                {
+                    "file": "BME332/BME332_7_2.png",
+                    "activity_id": 176
+                },
+                {
+                    "file": "BME332/BME332_8_1.png",
+                    "activity_id": 177
                 }
             ]
         }
