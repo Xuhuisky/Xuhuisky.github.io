@@ -1709,7 +1709,17 @@
                 },
                 {
                     "activity_id": 153,
-                    "activity_sequence": 9
+                    "activity_sequence": 9,
+                    "cross_links": [
+                        [
+                            "[Design Heurestics] Official website",
+                            "https://www.designheuristics.com/"
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ]
                 },
                 {
                     "activity_id": 154,
@@ -1830,6 +1840,38 @@
                 {
                     "activity_id": 145,
                     "activity_sequence": 3
+                },
+                {
+                    "activity_id": 178,
+                    "activity_sequence": 2
+                },
+                {
+                    "activity_id": 179,
+                    "activity_sequence": 4
+                },
+                {
+                    "activity_id": 180,
+                    "activity_sequence": 5
+                },
+                {
+                    "activity_id": 181,
+                    "activity_sequence": 6
+                },
+                {
+                    "activity_id": 182,
+                    "activity_sequence": 7
+                },
+                {
+                    "activity_id": 183,
+                    "activity_sequence": 8
+                },
+                {
+                    "activity_id": 184,
+                    "activity_sequence": 9
+                },
+                {
+                    "activity_id": 185,
+                    "activity_sequence": 10
                 }
             ],
             "images": []
