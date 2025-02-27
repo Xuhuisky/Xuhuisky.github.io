@@ -1935,6 +1935,22 @@
                             ""
                         ]
                     ]
+                },
+                {
+                    "activity_id": 186,
+                    "activity_sequence": 9
+                },
+                {
+                    "activity_id": 187,
+                    "activity_sequence": 10
+                },
+                {
+                    "activity_id": 188,
+                    "activity_sequence": 11
+                },
+                {
+                    "activity_id": 189,
+                    "activity_sequence": 12
                 }
             ],
             "images": [
@@ -1972,6 +1988,10 @@
                 },
                 {
                     "file": "BME332/BME332_8_1.png",
+                    "activity_id": 177
+                },
+                {
+                    "file": "BME332/BME332_8_2.png",
                     "activity_id": 177
                 }
             ]
