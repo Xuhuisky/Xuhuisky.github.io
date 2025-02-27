@@ -1955,6 +1955,14 @@
             ],
             "images": [
                 {
+                    "file": "BME332/BME332_10_1.png",
+                    "activity_id": 187
+                },
+                {
+                    "file": "BME332/BME332_10_2.png",
+                    "activity_id": 187
+                },
+                {
                     "file": "BME332/BME332_2_1.png",
                     "activity_id": 121
                 },
@@ -1993,6 +2001,10 @@
                 {
                     "file": "BME332/BME332_8_2.png",
                     "activity_id": 177
+                },
+                {
+                    "file": "BME332/BME332_9_1.png",
+                    "activity_id": 186
                 }
             ]
         }
