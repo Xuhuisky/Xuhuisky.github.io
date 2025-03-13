@@ -1951,6 +1951,14 @@
                 {
                     "activity_id": 189,
                     "activity_sequence": 12
+                },
+                {
+                    "activity_id": 190,
+                    "activity_sequence": 13
+                },
+                {
+                    "activity_id": 191,
+                    "activity_sequence": 14
                 }
             ],
             "images": [
@@ -1973,6 +1981,18 @@
                 {
                     "file": "BME332/BME332_12_2.png",
                     "activity_id": 189
+                },
+                {
+                    "file": "BME332/BME332_13_1.png",
+                    "activity_id": 190
+                },
+                {
+                    "file": "BME332/BME332_14_1.png",
+                    "activity_id": 191
+                },
+                {
+                    "file": "BME332/BME332_14_2.png",
+                    "activity_id": 191
                 },
                 {
                     "file": "BME332/BME332_2_1.png",
