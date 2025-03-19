@@ -1959,6 +1959,10 @@
                 {
                     "activity_id": 191,
                     "activity_sequence": 14
+                },
+                {
+                    "activity_id": 192,
+                    "activity_sequence": 15
                 }
             ],
             "images": [
@@ -1993,6 +1997,14 @@
                 {
                     "file": "BME332/BME332_14_2.png",
                     "activity_id": 191
+                },
+                {
+                    "file": "BME332/BME332_15_1.png",
+                    "activity_id": 192
+                },
+                {
+                    "file": "BME332/BME332_15_2.png",
+                    "activity_id": 192
                 },
                 {
                     "file": "BME332/BME332_2_1.png",
